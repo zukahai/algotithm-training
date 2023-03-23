@@ -1,0 +1,23 @@
+Dữ liệu quá lớn (10^12) nên không thể dùng for tính ra kết quả xong mod
+
+Nếu áp dụng công thức (a*b)%c = ((a%c)*(b%c))%c để vừa nhân vừa mod là một cách hay hơn nhưng chị đúng đến b = 10^8
+trước khi bị quá thời gian.
+
+Ý tưởng:
+Có công thức a^2k = (a^2)^k
+Ví dụ 4^10 = 16^5, 5^100 = 25^50
+Từ đấy ta có thể dễ dàng rứt gọn từ từ được số mũ b .
+Nếu b lẻ thì làm sao, ta lại đưa nó về b chẵn bằng cách a^(2k+1) = a * a^(2k). Lưu số a vào một biến nào đó để xíu nhân vào kết quả
+
+Hàm xử lí chính sẽ là:
+gán ans = 1
+trong khi b > 0:
+    Nếu b lẻ:
+        ans *= a
+        b --
+
+    // sau bước trên b chắc chán chẵn
+    b /= 2
+    a = ((a % mod) * (a % mod)) % mod
+
+trả về ans 
