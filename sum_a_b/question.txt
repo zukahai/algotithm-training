@@ -1,15 +1,8 @@
-Nhập vào số nguyên dương N và một mảng N số nguyên.
-In ra các số nguyên tố có trong mảng theo thứ tự nhập vào.
-
-Input:
-    - Dòng đầu tiên là số nguyên dương N
-    - Dòng tiếp theo là N số nguyên. Giữa 2 số cách nhau bởi một khoảng trắng.
-Output:
-    - Một dòng gồm các số nguyên tố có trong mảng theo thứ tự nhập vào.
+Nhập vào jai số tự nhiên a và b, tìm và im ra tổng các số tự nhiên >=a và <=b.
+(0 <= a, b <= 10^9)
 
 Test case mẫu:
 Input:
-5
-1 2 5 4 2
+2 4
 Output:
-2 5 2
+9
