@@ -1,5 +1,6 @@
 Nhập vào số nguyên dương N và một mảng N số nguyên.
 In ra các số nguyên tố có trong mảng theo thứ tự nhập vào.
+(0 < N < 10^6), (|a[i]| < 10^7)
 
 Input:
     - Dòng đầu tiên là số nguyên dương N
