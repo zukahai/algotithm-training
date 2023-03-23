@@ -1,0 +1,16 @@
+Nhập vào số nguyên dương N và một mảng N số nguyên.
+Tìm và in số xuất hiện nhiều nhất trong mảng, nếu có nhiều số xuất hiện với số lần lớn nhất thì đưa ra số lớn nhất.
+(0 < N < 10^6), (|a[i]| < 10^7)
+
+Input:
+    - Dòng đầu tiên là số nguyên dương N
+    - Dòng tiếp theo là N số nguyên. Giữa 2 số cách nhau bởi một khoảng trắng.
+Output:
+    - Một số là kết quả của chương trình
+
+Test case mẫu:
+Input:
+5
+1 2 5 4 2
+Output:
+2
