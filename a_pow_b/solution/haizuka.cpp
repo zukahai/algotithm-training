@@ -10,6 +10,7 @@ int solve(long long a, long long b, int mod)
         if (b % 2 == 1)
         {
             ans = (ans * a) % mod;
+            b--;
         }
         a = (a * a) % mod;
         b /= 2;
