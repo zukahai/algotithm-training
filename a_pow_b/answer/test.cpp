@@ -1,17 +1,19 @@
 #include <bits/stdc++.h>
 #include <fstream>
 using namespace std;
-long modPow(long a, long b, long c)
+long modPow(long a, long b, long mod)
 {
-    int result = 1;
+    int ans = 1;
     while (b > 0)
     {
-        if (b & 1)
-            result = (result * a) % c;
-        b >>= 1;
-        a = (a * a) % c;
+        if (a % 2 == 1)
+        {
+            ans  = (ans * a) % mod;
+        }
+        b /= 2;
+        a = ((a % mod) * (a % mod)) % mod;
     }
-    return result;
+    return ans;
 }
 
 int main()
