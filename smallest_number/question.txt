@@ -1,5 +1,5 @@
 Nhập vào số tự nhiên N.
-Tìm số nguyên dương M sao cho tích các số trong M đúng bằng N.
+Tìm số nguyên dương M nhỏ nhất sao cho tích các số trong M đúng bằng N.
 
 Input:
     - Dòng duy nhất chứa số nguyên dương N.
