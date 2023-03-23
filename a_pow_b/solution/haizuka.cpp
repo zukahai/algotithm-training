@@ -12,7 +12,7 @@ int solve(long long a, long long b, int mod)
             ans = (ans * a) % mod;
             b--;
         }
-        a = (a * a) % mod;
+        a = ((a % mod) * (a % mod)) % mod;
         b /= 2;
     }
     return ans;
