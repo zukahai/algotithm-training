@@ -1,0 +1,22 @@
+Ngân hành nhà nước Việt Nam vào năm 2023 hiện đang sử dụng các đồng tiền có các mệnh giá sau:
+1000, 2000, 5000, 10000, 20000, 50000, 100000, 200000, 500000.
+
+MLink cần rút một số tiền N (N là bội của 1000) ở một ngân hàng Việt Nam.
+MLink không thích quá nhiều tiền lẻ nên đã yêu cầu ngân hàng phải trả cho MLink số tờ tiền ít nhất có thể.
+Hãy giúp ngân hàng tìm số lượng mỗi loại mệnh giá đẻ thoả mãn yêu cầu của MLink.
+
+Input:
+    1 dòng duy nhất là số tiền N (1000 <= N <= 10^18)
+Output:
+    Đòng đầu tiên là số tờ tiền ít nhất.
+    Các dong tiếp theo lần lượt là các cặp x và y. Trong đó x là mệnh giá và y là số loại tờ tiền, x sắp xếp giảm dần, y > 0.
+
+Ví dụ:
+Input:
+1305000
+Output:
+5
+500000 2
+200000 1
+100000 1
+5000 1
