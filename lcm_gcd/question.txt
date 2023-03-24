@@ -1,0 +1,15 @@
+Cho hai số nguyên dương a và b.
+Tìm số lượng số x, sao cho x là bội của a và là ước của b.
+
+Input:
+    Một dòng duy nhất chứa lần lượt 2 số nguyên dương a và b (1 <= a, b <= 10^15)
+Output:
+    Một dong duy nhất chứa kết quả cần tìm.
+
+Ví dụ mẫu:
+Input:
+    3 24
+Output:
+4
+
+Giải thích: Các số là bội của 3 và là ước của 24 là: 3, 6, 12, 24
