@@ -1,3 +1,5 @@
+<div align="center">
+
 # algotithm-training
 
 | x| Nguyễn Văn Nam| Phan Việt Long|
@@ -8,3 +10,5 @@
 | [SumAB](https://github.com/zukahai/algotithm-training/tree/main/sum_a_b)| ✅| ✅|
 | [SumN](https://github.com/zukahai/algotithm-training/tree/main/sum_n)| ❌| ❌|
 | [The Number That Appears The Most](https://github.com/zukahai/algotithm-training/tree/main/the_number_that_appears_the_most)| ✅| ❌|
+
+</div>
