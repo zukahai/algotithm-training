@@ -55,7 +55,7 @@ int main()
 
         finput << a << " " << b;
         finput.close();
-        foutput << solve(a, b, 10000) << endl;
+        foutput << solve(a, b, 10000);
         foutput.close();
         maxN *= 10;
         if (maxN > 1000000000000)
