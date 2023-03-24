@@ -1,0 +1,14 @@
+Số siêu nguyên tố là số nguyên tố, khi ta bỏ lần lượt các chữ số cuối cùng của nó thì nó cũng là số nguyên tố.
+Ví dụ: 2939 là số siêu nguyên tố vì 2939, 293, 29, 2 đều là số nguyên tố.
+Nhập và số nguyên N, hay kiểm trả N có phải là số siêu nguyên tố hay không, Trả về YES nếu có, ngược lại trả về NO
+
+Input:
+    Dòng duy nhất chứa số nguyên N (10^12 <= N <= 10^12).
+Output:
+    Dòng duy nhất chứa YES hoặc NO
+
+Test Case mẫu:
+Input:
+2939
+Output:
+YES
