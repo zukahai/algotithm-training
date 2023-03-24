@@ -2,7 +2,7 @@ Cho hai số nguyên dương a và b.
 Tìm số lượng số x, sao cho x là bội của a và là ước của b.
 
 Input:
-    Một dòng duy nhất chứa lần lượt 2 số nguyên dương a và b (1 <= a, b <= 10^18)
+    Một dòng duy nhất chứa lần lượt 2 số nguyên dương a và b (1 <= a, b <= 10^15)
 Output:
     Một dong duy nhất chứa kết quả cần tìm.
 
