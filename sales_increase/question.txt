@@ -1,0 +1,29 @@
+Một công ty bán laptop HaiZuka vừa mới thành lập, rất quan trọng đến việc đẩy mạnh danh thu của công ty.
+Để khích lệ nhân viên của mình thì tổng giám đốc đã ra một ưu đãi đó là nếu như doanh thu ngày hôm nay của một nhân viên tăng so với ngày hôm trước thì nhân viên sẽ nhân x2 số lương của một ngày.
+Nếu ngày tiếp theo nhân viên đó vẫn tiếp tục tăng doanh thu thì ngày lương lại x3, ... có tăng như thế cho đến khi nhân viên đó không đặt được doanh thu cao hơn so với ngày hôm trước.
+
+Cho một dãy a gồm các số nguyên dương tương ứng với doanh thu từng ngày của nhân viên X.
+Ví dụ như một ngày lương của nhân viên đó là 1, hãy tính xem số tiền của nhất mà X đã từng nhận trong một ngày là bao nhiêu.
+
+Input:
+    Dòng thứ nhất là một số nguyên dương N chính là số ngày mà nhân viên đó làm (1 < N < 10^5)
+    Dòng thứ 2 là một dãy số, tương đương với doanh thu từng ngày của người đó (0 < a[i] < 10^9)
+Output:
+    Là một số nguyên dương là doanh thu cao nhất của người đó trong 1 ngày
+
+Ví dụ mẫu:
+Input:
+    6
+    3 4 2 3 4 1
+Output:
+    3
+
+Giải thích:
+    Ngày đầu tiên người đó có doanh thu là 3: tiền lương là 1
+    Ngày 2 doanh thu là 4, cao hơn ngày trước nên tiền lương tăng lên thành 2
+    Ngày 3 doanh thu là 2, thấp hơn ngày trước nên tiền lương trở về 1
+    Ngày 4 doanh thu là 3, cao hơn ngày trước nên tiền lương tăng lên 2
+    Ngày 5 doanh thu là 4, cao hơn ngày trước nên tiền lương tăng lên 3
+    Ngày 6 doanh thu là 1, thấp hơn ngày trước nên tiền lương là 1
+
+    Trong 6 ngày trên, ngày mà lương người đó cao nhất là ngày thứ 5 với tiền lương là 3
