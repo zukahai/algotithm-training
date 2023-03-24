@@ -1,4 +1,4 @@
-Nhập vào một số nguyên dương N.
+Nhập vào một số nguyên N.
 Tính và in ra các số tự nhiên nhỏ hơn hoặc bằng N, Kết quả sẽ được chia lấy dư cho 10e9+7
 (-10^18 < N < 10^18)
 

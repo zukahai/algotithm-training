@@ -1,0 +1,14 @@
+Nhập vào một số nguyên dương N.
+Tìm và in ra tất cả ước số tự nhiện của N theo thứ tự tăng dần
+(1 < N < 10^14)
+
+Input:
+    Dòng duy nhất chứa số nguyên N.
+Output:
+    Dòng duy nhất chứa dãy số là các ước số tự nhiên của N, giữa các số có một khoảng cách.
+
+Test Case mẫu:
+Input:
+10
+Output:
+1 2 5 10
