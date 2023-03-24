@@ -1,14 +1,14 @@
 <div align="center">
 
-# algotithm-training
+# Algotithm Training
 
-| x| Nguyễn Văn Nam| Phan Việt Long|
-| :-----: | :-----: | :-: |
-| [A pow B](https://github.com/zukahai/algotithm-training/tree/main/a_pow_b)| ✅| ✅|
-| [Prime Array](https://github.com/zukahai/algotithm-training/tree/main/prime_array)| ✅| ❌|
-| [Smallest Number](https://github.com/zukahai/algotithm-training/tree/main/smallest_number)| ❌| ❌|
-| [SumAB](https://github.com/zukahai/algotithm-training/tree/main/sum_a_b)| ✅| ✅|
-| [SumN](https://github.com/zukahai/algotithm-training/tree/main/sum_n)| ❌| ❌|
-| [The Number That Appears The Most](https://github.com/zukahai/algotithm-training/tree/main/the_number_that_appears_the_most)| ✅| ❌|
+|#| Problem|Score| Nguyễn Văn Nam| Phan Việt Long|
+| :-----:|:-----:| :-----: | :-----: | :-: |
+|1| [A pow B](https://github.com/zukahai/algotithm-training/tree/main/a_pow_b)|200| ✅| ✅|
+|2| [Prime Array](https://github.com/zukahai/algotithm-training/tree/main/prime_array)|100| ✅| ❌|
+|3| [Smallest Number](https://github.com/zukahai/algotithm-training/tree/main/smallest_number)|250| ❌| ❌|
+|4| [SumAB](https://github.com/zukahai/algotithm-training/tree/main/sum_a_b)|100| ✅| ✅|
+|5| [SumN](https://github.com/zukahai/algotithm-training/tree/main/sum_n)|100| ❌| ❌|
+|6| [The Number That Appears The Most](https://github.com/zukahai/algotithm-training/tree/main/the_number_that_appears_the_most)|150| ✅| ❌|
 
 </div>
