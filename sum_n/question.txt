@@ -1,0 +1,16 @@
+Nhập vào một số nguyên dương N.
+Tính và in ra các số tự nhiên nhỏ hơn hoặc bằng N, Kết quả sẽ được chia lấy dư cho 10e9+7
+(-10^18 < N < 10^18)
+
+Input:
+    Dòng duy nhất chứa số nguyên N.
+Output:
+    Dòng duy nhất là kết quả cần tìm.
+
+Test Case mẫu:
+Input:
+4
+Output:
+10
+Giải thích:
+Các số tự nhiện nhỏ hơn hoặc bằng 4 là: 0, 1, 2, 3, 4
