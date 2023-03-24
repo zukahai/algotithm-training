@@ -1,8 +1,6 @@
 .vscode
 prime_array/random_test_case
 prime_array/solution
-sum_a_b/random_test_case
-sum_a_b/solution
 smallest_number/random_test_case
 smallest_number/solution
 divisors/random_test_case
@@ -13,3 +11,5 @@ sales_increase/random_test_case
 sales_increase/solution
 lcm_gcd/random_test_case
 lcm_gcd/solution
+super_prime_number_2/random_test_case
+super_prime_number_2/solution
