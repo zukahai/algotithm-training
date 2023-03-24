@@ -10,5 +10,7 @@
 |4| [SumAB](https://github.com/zukahai/algotithm-training/tree/main/sum_a_b)|100| ✅| ✅|
 |5| [SumN](https://github.com/zukahai/algotithm-training/tree/main/sum_n)|100| ❌| ❌|
 |6| [The Number That Appears The Most](https://github.com/zukahai/algotithm-training/tree/main/the_number_that_appears_the_most)|150| ✅| ❌|
+|7| [Divisors](https://github.com/zukahai/algotithm-training/tree/main/divisors)|100| ❌| ❌|
+
 
 </div>
