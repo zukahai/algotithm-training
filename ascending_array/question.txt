@@ -1,0 +1,17 @@
+Cho một mảng số nguyên gồm N phân tử.
+Tìm và in ra độ dài dãy con tăng dần KHÔNG cần liên tiếp dài nhất.
+
+Input:
+    Dòng đầu tiên gồm số nguyên dương N (1 <= N <= 10^4)
+    Dòng thứ 2 gồm N phần tử cách nhau bởi một dấu cách (|a[i]| <= 10^9)
+Output:
+    Một dòng duy nhất là kết quả cần tìm.
+
+Ví dụ mẫu:
+Input:
+7
+3 10 4 6 -7 9 3
+Output:
+4
+
+Giải thích: Dãy đó là 3, 4, 6, 9. Có độ dài là 4.
