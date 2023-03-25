@@ -1,3 +1,6 @@
+
+// The number that appears the most
+// Tìm số xuất hiện nhiều nhất trong mảng
 #include <bits/stdc++.h>
 using namespace std;
 long long counts[20000009];
@@ -13,7 +16,6 @@ int  main()
     }
     long long max, min;
     min = max = a[0];
-
     for (long long i = 0; i < n; i++)
     {
         if (a[i] > max)
@@ -34,7 +36,6 @@ int  main()
     long long maxNumber = a[0];
     for (long long i = 0; i < n; i++)
     {
-        cout << a[i] << " " << counts[a[i] - min] << endl;
         if (counts[a[i] - min] > counts[maxNumber - min])
         {
             maxNumber = a[i];

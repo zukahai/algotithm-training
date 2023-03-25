@@ -1,6 +1,7 @@
+// Find the character that appears the most in a string
+// Tìm ký tự xuất hiện nhiều nhất trong chuỗi
 #include <bits/stdc++.h>
 using namespace std;
-
 int main()
 {
     string string_;
