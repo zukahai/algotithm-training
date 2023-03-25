@@ -17,8 +17,8 @@
 |11| [Super Prime Number](https://github.com/zukahai/algotithm-training/tree/main/super_prime_number)|100| ✅| ❌|
 |12| [Super Prime Number 2](https://github.com/zukahai/algotithm-training/tree/main/super_prime_number_2)|200| ❌| ❌|
 |13| [Decreasing array](https://github.com/zukahai/algotithm-training/tree/main/decreasing_array)|120| ✅| ❌|
-|14| [Positive Number Array](https://github.com/zukahai/algotithm-training/tree/main/positive_number_array)|120| ❌| ❌|
-|15| [Alike Array](https://github.com/zukahai/algotithm-training/tree/main/alike_array)|120| ❌| ❌|
+|14| [Positive Number Array](https://github.com/zukahai/algotithm-training/tree/main/positive_number_array)|120| ✅| ❌|
+|15| [Alike Array](https://github.com/zukahai/algotithm-training/tree/main/alike_array)|120| ✅| ❌|
 |16| [Max Sum Array](https://github.com/zukahai/algotithm-training/tree/main/max_sum_array)|150| ❌| ❌|
 |17| [Ascending Array](https://github.com/zukahai/algotithm-training/tree/main/ascending_array)|200| ❌| ❌|
 18| [Missing Element](https://github.com/zukahai/algotithm-training/tree/main/missing_element)|100| ❌| ❌|
