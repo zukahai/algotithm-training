@@ -1,0 +1,13 @@
+Cho một chuỗi S, tìm chuỗi X là chuỗi con đối xứng dài nhất trong S.
+Nếu có nhiều chuỗi đối xứng có độ dài dài nhất thì đưa ra chuỗi xuất hiện đầu tiên trong S.
+
+Input:
+    Dòng đầu tiên gồm số chuỗi S (1 <= |S| <= 10^5)
+Output:
+    Chuỗi X
+
+Ví dụ mẫu:
+Input:
+habcbaabc
+Output:
+abcba
