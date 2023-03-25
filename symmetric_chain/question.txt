@@ -1,0 +1,15 @@
+Một chuỗi gọi là chuỗi đối xứng khi ta đọc ngược lại thì chuỗi vẫn như ban đầu.
+Ví dụ "aba", "abba", "abcba",.. là các chuỗi đối xứng.
+Cho một chuỗi S, kiểm tra xem S có phải là chuỗi đối xứng hay không.
+Trả về YES nếu S đối xứng, ngược lại trả về NO
+
+Input:
+    Dòng đầu tiên gồm số chuỗi S (1 <= |S| <= 10^5)
+Output:
+    YES hoặc NO
+
+Ví dụ mẫu:
+Input:
+abcba
+Output:
+YES
