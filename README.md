@@ -16,5 +16,5 @@
 |10| [Lcm Gcd](https://github.com/zukahai/algotithm-training/tree/main/lcm_gcd)|120| ❌| ❌|
 |11| [Super Prime Number](https://github.com/zukahai/algotithm-training/tree/main/super_prime_number)|100| ❌| ❌|
 |12| [Super Prime Number 2](https://github.com/zukahai/algotithm-training/tree/main/super_prime_number_2)|200| ❌| ❌|
-
+|13| [Decreasing array](https://github.com/zukahai/algotithm-training/tree/main/decreasing_array)|120| ❌| ❌|
 </div>
