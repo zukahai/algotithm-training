@@ -1,0 +1,22 @@
+Trong một lớp học có N sinh viên, có mã sinh viên lần lượt được đánh số từ 1 đến N.
+Mỗi đầu buổi học giảng viên sẽ điểm danh học sinh trong lớp bằng cách cho học sinh ghi lại mã sinh viên của mình lên hệ thống.
+Khi giảng viên kiểm tra lại thì thấy có 1 sinh viên chưa điểm danh.
+Do số lượng sinh viên quá đông nên giảng viên không tiện kiểm tra sinh viên nào vắng.
+Hãy giúp giảng viên tìm ra sinh viên vắng mặt từ danh sách mã sinh viên đã điểm danh.
+
+Input:
+
+Input:
+    Dòng đầu tiên gồm số nguyên dương N (1 <= N <= 10^5)
+    Dòng thứ 2 gồm N - 1 phần tử là mã sinh viên của các sinh viên đã điểm danh, cách nhau bởi một dấu cách (1 <= a[i] <= N)
+Output:
+    Một dòng duy nhất là kết quả cần tìm.
+
+Ví dụ mẫu:
+Input:
+4
+1 4 2
+Output:
+3
+
+Giải thích: Trong 4 sinh viên thì có các sinh viên 1, 2, 4 đã điểm danh. Sinh viên 3 vắng.
