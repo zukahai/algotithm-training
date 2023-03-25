@@ -21,4 +21,5 @@
 |15| [Alike Array](https://github.com/zukahai/algotithm-training/tree/main/alike_array)|120| ❌| ❌|
 |16| [Max Sum Array](https://github.com/zukahai/algotithm-training/tree/main/max_sum_array)|150| ❌| ❌|
 |17| [Ascending Array](https://github.com/zukahai/algotithm-training/tree/main/ascending_array)|200| ❌| ❌|
+17| [Missing Element](https://github.com/zukahai/algotithm-training/tree/main/missing_element)|100| ❌| ❌|
 </div>
