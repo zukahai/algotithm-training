@@ -15,7 +15,7 @@ let genarate = (update) => {
         // genrate answer 
         //check folder have folder answer
         let folder = folders[i];
-        if (fs.existsSync(path.join(__dirname, folder, 'answer')) == false) {
+        if (fs.existsSync(path.join(__dirname, folder, 'answer2')) == false) {
             continue;
         }
         if (fs.existsSync(path.join(__dirname, folder, 'answer2', 'answer.cpp')) == true && update == false) {

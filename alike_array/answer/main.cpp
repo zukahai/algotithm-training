@@ -12,7 +12,7 @@ int main()
         cin >> a[i];
     }
     save[0] = 1;
-    long long max = 1;
+    long long max = save[0];
     for (int i = 1; i < n; i++)
     {
         if (a[i] == a[i - 1])
