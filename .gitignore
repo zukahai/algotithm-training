@@ -1,4 +1,5 @@
 .vscode
+*.exe
 prime_array/random_test_case
 prime_array/solution
 smallest_number/random_test_case
@@ -17,3 +18,5 @@ super_prime_number/random_test_case
 super_prime_number/solution
 decreasing_array/random_test_case
 decreasing_array/solution
+positive_number_array/random_test_case
+positive_number_array/solution
