@@ -12,7 +12,7 @@
 |6| [The Number That Appears The Most](https://github.com/zukahai/algotithm-training/tree/main/the_number_that_appears_the_most)|150| ✅| ✅|
 |7| [Divisors](https://github.com/zukahai/algotithm-training/tree/main/divisors)|100| ✅| ❌|
 |8| [Money Change](https://github.com/zukahai/algotithm-training/tree/main/money_change)|100| ✅| ❌|
-|9| [Sales Increase](https://github.com/zukahai/algotithm-training/tree/main/sales_increase)|100| ❌| ❌|
+|9| [Sales Increase](https://github.com/zukahai/algotithm-training/tree/main/sales_increase)|100| ❌| ✅|
 |10| [Lcm Gcd](https://github.com/zukahai/algotithm-training/tree/main/lcm_gcd)|120| ✅| ❌|
 |11| [Super Prime Number](https://github.com/zukahai/algotithm-training/tree/main/super_prime_number)|100| ✅| ❌|
 |12| [Super Prime Number 2](https://github.com/zukahai/algotithm-training/tree/main/super_prime_number_2)|200| ❌| ❌|
