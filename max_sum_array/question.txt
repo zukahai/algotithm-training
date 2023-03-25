@@ -1,0 +1,17 @@
+Cho một mảng số nguyên gồm N phân tử.
+Tìm và in ra tổng của dãy con liên tiếp có tổng lớn nhất.
+
+Input:
+    Dòng đầu tiên gồm số nguyên dương N (1 <= N <= 10^5)
+    Dòng thứ 2 gồm N phần tử cách nhau bởi một dấu cách (|a[i]| <= 10^9)
+Output:
+    Một dòng duy nhất là kết quả cần tìm.
+
+Ví dụ mẫu:
+Input:
+6
+-3 2 1 3 -8 5
+Output:
+6
+
+Giải thích: dãy con liên tiếp có tổng lớn nhất là 2, 1, 3 có tổng là 6

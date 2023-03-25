@@ -1,0 +1,14 @@
+Số siêu nguyên tố là số nguyên tố, khi ta bỏ lần lượt các chữ số cuối cùng của nó thì nó cũng là số nguyên tố.
+Ví dụ: 2939 là số siêu nguyên tố vì 2939, 293, 29, 2 đều là số nguyên tố.
+Hãy tìm danh sách tăng dần tất cả số siêu nguyên tố có N chữ số. Nếu không tồn tại số nào thì in ra -1.
+
+Input:
+    Dòng duy nhất chứa số nguyên dương N (1 <= N <= 20).
+Output:
+    Dòng duy nhất là kết quả cần tìm.
+
+Test Case mẫu:
+Input:
+3
+Output:
+233 239 293 311 313 317 373 379 593 599 719 733 739 797
