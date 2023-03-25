@@ -24,4 +24,5 @@
 18| [Missing Element](https://github.com/zukahai/algotithm-training/tree/main/missing_element)|100| ❌| ❌|
 19| [Missing Element 2](https://github.com/zukahai/algotithm-training/tree/main/missing_element_2)|120| ❌| ❌|
 20| [Mountain Array](https://github.com/zukahai/algotithm-training/tree/main/mountain_array)|150| ❌| ❌|
+21| [Miners And Gold](https://github.com/zukahai/algotithm-training/tree/main/miners_and_gold)|150| ❌| ❌|
 </div>

@@ -14,4 +14,4 @@ Input:
 Output:
 5
 
-Giải thích: Dãy con giảm liên tiếp dương dài nhất là 2, 6, 1, 2, 4 có độ dài là 4
+Giải thích: Dãy con giảm liên tiếp đương dài nhất là 2, 6, 1, 2, 4 có độ dài là 5.

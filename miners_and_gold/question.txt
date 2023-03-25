@@ -1,0 +1,24 @@
+Một người thợ mỏ trong lúc làm việc thì vô tình gặp phải một con gấu.
+Trong lúc quay về hầm trú ẩn, người thợ mỏ phát hiện ra một mỏ vàng được biểu diễn bằng ma trận A kích thước m x n.
+A[i][j] cho biết lượng vàng tại hàng i cột j. Vị trí ban đầu của người thợ mỏ là (0, 0), ông ta cần quay về vị trí (m-1,n-1).
+Do gấp rút nên người thợ mỏ chỉ có thể đi qua phải hoặc xuống dưới, anh ta sẽ lấy lượng vàng mà anh ta đi qua.
+Tính số vàng tối đa mà người thợ mỏ có thể lấy được trong lúc di chuyển.
+
+Input:
+    Dòng đầu tiên gồm số 2 nguyên dương N (1 <= m, n <= 10^3)
+    m dòng tiếp theo, mỗi dòng gồm n số tự nhiên. (0 <= a[i][j] <= 10^3)
+Output:
+    Một dòng duy nhất là kết quả cần tìm.
+
+Ví dụ mẫu:
+Input:
+3 4
+10 10 10 10
+10 50 70 20
+90 10 10 10
+Output:
+170
+
+Giải thích: Thở mỏ di chuyển: a[0][0] -> a[0][1] -> a[1][1] -> a[1][2] -> a[1][3] -> a[2][3]
+
+Giải thích: dãy con liên tiếp có tổng lớn nhất là 2, 1, 3 có tổng là 6
