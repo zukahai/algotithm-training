@@ -46,15 +46,15 @@ int main()
     init();
     int n;
     int maxN = 10;
-    for (int TC = 10; TC <= 10; TC++)
+    for (int TC = 5; TC <= 10; TC++)
     {
         finput.open("../testcase/tc" + toString(TC) + "/input.txt");
         foutput.open("../testcase/tc" + toString(TC) + "/output.txt");
         cout << toString(TC) << endl;
-        n = 1000000;
+        n = 100000 * TC;
         for (int i = 0; i < n; i++)
         {
-            a[i] = rand() % maxN + 1;
+            a[i] = rand() * rand() % (10 * n) + 1;
         }
         for (int i = 0; i < n; i++)
         {
@@ -76,10 +76,5 @@ int main()
             }
         }
         foutput.close();
-        maxN *= 10;
-        if (maxN > 100000)
-        {
-            maxN = 100000;
-        }
     }
 }
