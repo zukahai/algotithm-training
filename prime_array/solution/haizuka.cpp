@@ -2,24 +2,35 @@
 
 using namespace std;
 
-int solve(long long a, long long b, int mod)
+bool b[10000007];
+
+int a[100009];
+
+void init()
 {
-    long long ans = 1;
-    while (b > 0)
+    for (int i = 0; i < sqrt(10000007); i++)
+        b[i] = true;
+    b[0] = b[1] = false;
+    for (int i = 2; i < 10000007; i++)
     {
-        if (b % 2 == 1)
+        if (b[i] == true)
         {
-            ans = (ans * a) % mod;
+            for (int j = i * i; j < 10000007; j += i)
+            {
+                b[j] = false;
+            }
         }
-        a = (a * a) % mod;
-        b /= 2;
     }
-    return ans;
 }
 
 int main()
 {
-    long long a, b;
-    cin >> a >> b;
-    cout << solve(a, b, 10000) << endl;
+    init();
+    int n;
+    cin >> n;
+    for (int i = 0; i < n; i++)
+        cin >> a[i];
+    for (int i = 0; i < n; i++)
+        if (a[i] > 0 && b[a[i]] == true)
+            cout << a[i] << " ";
 }
