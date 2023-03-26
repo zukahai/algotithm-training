@@ -20,13 +20,14 @@
 |14| [Positive Number Array](https://github.com/zukahai/algotithm-training/tree/main/positive_number_array)|120| ✅| ✅|
 |15| [Alike Array](https://github.com/zukahai/algotithm-training/tree/main/alike_array)|120| ✅| ✅|
 |16| [Max Sum Array](https://github.com/zukahai/algotithm-training/tree/main/max_sum_array)|150| ✅| ✅|
-|17| [Ascending Array](https://github.com/zukahai/algotithm-training/tree/main/ascending_array)|200| ❌| ❌|
+|17| [Ascending Array](https://github.com/zukahai/algotithm-training/tree/main/ascending_array)|200| ✅| ❌|
 18| [Missing Element](https://github.com/zukahai/algotithm-training/tree/main/missing_element)|100| ✅| ❌|
 19| [Missing Element 2](https://github.com/zukahai/algotithm-training/tree/main/missing_element_2)|120| ✅| ❌|
 20| [Mountain Array](https://github.com/zukahai/algotithm-training/tree/main/mountain_array)|150| ❌| ❌|
 21| [Miners And Gold](https://github.com/zukahai/algotithm-training/tree/main/miners_and_gold)|150| ✅| ❌|
 22| [Symmetric Chain](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain)|100| ✅| ❌|
 23| [Symmetric Chain 2](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain_2)|150| ❌| ❌|
-24| [Even Or Odd Sequence](https://github.com/zukahai/algotithm-training/tree/main/even_or_odd_sequence)|120| ❌| ❌|
-25| [Rabbit And Carrot](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot)|150| ❌| ❌|
+24| [Even Or Odd Sequence](https://github.com/zukahai/algotithm-training/tree/main/even_or_odd_sequence)|120| ✅| ❌|
+25| [Rabbit And Carrot](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot)|150| ✅| ❌|
+26| [Rabbit And Carrot 2](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot_2)|150| ❌| ❌|
 </div>
