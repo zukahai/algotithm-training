@@ -1,17 +1,11 @@
 .vscode
 *.exe
-prime_array/random_test_case
-prime_array/solution
 smallest_number/random_test_case
 smallest_number/solution
-divisors/random_test_case
-divisors/solution
 money_change/random_test_case
 money_change/solution
 sales_increase/random_test_case
 sales_increase/solution
-lcm_gcd/random_test_case
-lcm_gcd/solution
 super_prime_number_2/random_test_case
 super_prime_number_2/solution
 super_prime_number/random_test_case
@@ -20,8 +14,6 @@ decreasing_array/random_test_case
 decreasing_array/solution
 positive_number_array/random_test_case
 positive_number_array/solution
-alike_array/random_test_case
-alike_array/solution
 max_sum_array/random_test_case
 max_sum_array/solution
 ascending_array/random_test_case
