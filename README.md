@@ -29,5 +29,6 @@
 23| [Symmetric Chain 2](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain_2)|150| ❌| ❌|
 24| [Even Or Odd Sequence](https://github.com/zukahai/algotithm-training/tree/main/even_or_odd_sequence)|120| ✅| ❌|
 25| [Rabbit And Carrot](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot)|150| ✅| ❌|
-26| [Rabbit And Carrot 2](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot_2)|150| ❌| ❌|
+26| [Rabbit And Carrot 2](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot_2)|140| ❌| ❌|
+27| [Alike Array 2](https://github.com/zukahai/algotithm-training/tree/main/alike_array_2)|150| ❌| ❌|
 </div>
