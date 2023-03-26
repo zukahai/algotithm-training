@@ -17,4 +17,4 @@ Output:
 
 Giải thích: 
 Ta sẽ thay số 6 thành số 2, lúc đó dãy sẽ thành 4, 2, 2, 2, 2, 5, 5
-Dãy con giảm liên tiếp có các phần tử bằng nhau dài nhất là 2, 2, 2, 5 có độ dài là 4
+Dãy con giảm liên tiếp có các phần tử bằng nhau dài nhất là 2, 2, 2, 2 có độ dài là 4

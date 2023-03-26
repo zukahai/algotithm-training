@@ -10,7 +10,7 @@
 |4| [SumAB](https://github.com/zukahai/algotithm-training/tree/main/sum_a_b)|100| ✅| ✅|
 |5| [SumN](https://github.com/zukahai/algotithm-training/tree/main/sum_n)|100| ✅| ✅|
 |6| [The Number That Appears The Most](https://github.com/zukahai/algotithm-training/tree/main/the_number_that_appears_the_most)|150| ✅| ✅|
-|7| [Divisors](https://github.com/zukahai/algotithm-training/tree/main/divisors)|100| ✅| ❌|
+|7| [Divisors](https://github.com/zukahai/algotithm-training/tree/main/divisors)|100| ✅| ✅|
 |8| [Money Change](https://github.com/zukahai/algotithm-training/tree/main/money_change)|100| ✅| ❌|
 |9| [Sales Increase](https://github.com/zukahai/algotithm-training/tree/main/sales_increase)|100| ✅| ✅|
 |10| [Lcm Gcd](https://github.com/zukahai/algotithm-training/tree/main/lcm_gcd)|120| ✅| ❌|
@@ -29,7 +29,8 @@
 23| [Symmetric Chain 2](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain_2)|150| ❌| ❌|
 24| [Even Or Odd Sequence](https://github.com/zukahai/algotithm-training/tree/main/even_or_odd_sequence)|120| ✅| ❌|
 25| [Rabbit And Carrot](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot)|150| ✅| ❌|
-26| [Rabbit And Carrot 2](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot_2)|140| ❌| ❌|
+26| [Rabbit And Carrot 2](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot_2)|140| ✅| ❌|
 27| [Alike Array 2](https://github.com/zukahai/algotithm-training/tree/main/alike_array_2)|150| ❌| ❌|
-28| [Ascending Array 3](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_3)|150| ❌| ❌|
+28| [Ascending Array 3](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_3)|100| ❌| ❌|
+29| [Number Prime](https://github.com/zukahai/algotithm-training/tree/main/number_prime)|120| ❌| ❌|
 </div>

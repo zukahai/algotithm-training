@@ -1,0 +1,18 @@
+Kiểm tra trong khoảng [a, b] có bao nhiêu số nguyên tố.
+
+Input:
+    Dòng đầu là số trường hợp thử nghiệm T (1 <= T <= 10^5).
+    T dòng tiếp theo, mỗi dòng là cắp số a và b (-10^6 <= a <= b <= 10^6)
+Output
+    T dòng, mỗi dòng là kết quả của từng trường hợp thử nghiệm.
+
+Ví dụ mẫu:
+Input:
+3
+1 5
+2 3
+3 12
+Output:
+3
+2
+4
