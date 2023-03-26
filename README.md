@@ -6,7 +6,7 @@
 | :-----:|:-----:| :-----: | :-----: | :-: |
 |1| [A pow B](https://github.com/zukahai/algotithm-training/tree/main/a_pow_b)|200| ✅| ✅|
 |2| [Prime Array](https://github.com/zukahai/algotithm-training/tree/main/prime_array)|100| ✅| ❌|
-|3| [Smallest Number](https://github.com/zukahai/algotithm-training/tree/main/smallest_number)|250| ❌| ❌|
+|3| [Smallest Number](https://github.com/zukahai/algotithm-training/tree/main/smallest_number)|250| ✅| ❌|
 |4| [SumAB](https://github.com/zukahai/algotithm-training/tree/main/sum_a_b)|100| ✅| ✅|
 |5| [SumN](https://github.com/zukahai/algotithm-training/tree/main/sum_n)|100| ✅| ✅|
 |6| [The Number That Appears The Most](https://github.com/zukahai/algotithm-training/tree/main/the_number_that_appears_the_most)|150| ✅| ✅|
@@ -19,12 +19,14 @@
 |13| [Decreasing array](https://github.com/zukahai/algotithm-training/tree/main/decreasing_array)|120| ✅| ❌|
 |14| [Positive Number Array](https://github.com/zukahai/algotithm-training/tree/main/positive_number_array)|120| ✅| ✅|
 |15| [Alike Array](https://github.com/zukahai/algotithm-training/tree/main/alike_array)|120| ✅| ✅|
-|16| [Max Sum Array](https://github.com/zukahai/algotithm-training/tree/main/max_sum_array)|150| ✅| ❌|
+|16| [Max Sum Array](https://github.com/zukahai/algotithm-training/tree/main/max_sum_array)|150| ✅| ✅|
 |17| [Ascending Array](https://github.com/zukahai/algotithm-training/tree/main/ascending_array)|200| ❌| ❌|
 18| [Missing Element](https://github.com/zukahai/algotithm-training/tree/main/missing_element)|100| ✅| ❌|
 19| [Missing Element 2](https://github.com/zukahai/algotithm-training/tree/main/missing_element_2)|120| ✅| ❌|
 20| [Mountain Array](https://github.com/zukahai/algotithm-training/tree/main/mountain_array)|150| ❌| ❌|
 21| [Miners And Gold](https://github.com/zukahai/algotithm-training/tree/main/miners_and_gold)|150| ✅| ❌|
-22| [Symmetric Chain](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain)|100| ❌| ❌|
+22| [Symmetric Chain](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain)|100| ✅| ❌|
 23| [Symmetric Chain 2](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain_2)|150| ❌| ❌|
+24| [Even Or Odd Sequence](https://github.com/zukahai/algotithm-training/tree/main/even_or_odd_sequence)|120| ❌| ❌|
+25| [Rabbit And Carrot](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot)|150| ❌| ❌|
 </div>
