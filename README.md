@@ -20,7 +20,7 @@
 |14| [Positive Number Array](https://github.com/zukahai/algotithm-training/tree/main/positive_number_array)|120| ✅| ✅|
 |15| [Alike Array](https://github.com/zukahai/algotithm-training/tree/main/alike_array)|120| ✅| ✅|
 |16| [Max Sum Array](https://github.com/zukahai/algotithm-training/tree/main/max_sum_array)|150| ✅| ✅|
-|17| [Ascending Array](https://github.com/zukahai/algotithm-training/tree/main/ascending_array)|200| ✅| ❌|
+|17| [Ascending Array 2](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_2)|200| ✅| ❌|
 18| [Missing Element](https://github.com/zukahai/algotithm-training/tree/main/missing_element)|100| ✅| ❌|
 19| [Missing Element 2](https://github.com/zukahai/algotithm-training/tree/main/missing_element_2)|120| ✅| ❌|
 20| [Mountain Array](https://github.com/zukahai/algotithm-training/tree/main/mountain_array)|150| ❌| ❌|
@@ -31,4 +31,5 @@
 25| [Rabbit And Carrot](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot)|150| ✅| ❌|
 26| [Rabbit And Carrot 2](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot_2)|140| ❌| ❌|
 27| [Alike Array 2](https://github.com/zukahai/algotithm-training/tree/main/alike_array_2)|150| ❌| ❌|
+28| [Ascending Array 3](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_3)|150| ❌| ❌|
 </div>
