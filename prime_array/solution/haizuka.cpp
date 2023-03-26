@@ -4,14 +4,14 @@ using namespace std;
 
 bool b[10000007];
 
-int a[100009];
+int a[1000009];
 
 void init()
 {
-    for (int i = 0; i < sqrt(10000007); i++)
+    for (int i = 0; i < 10000007; i++)
         b[i] = true;
     b[0] = b[1] = false;
-    for (int i = 2; i < 10000007; i++)
+    for (int i = 2; i * i < 10000007; i++)
     {
         if (b[i] == true)
         {
