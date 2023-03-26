@@ -11,6 +11,7 @@ int main()
     {
         cin >> a[i];
     }
+    
     save[0] = 1;
     long long max = 1;
     for (int i = 1; i < n; i++)

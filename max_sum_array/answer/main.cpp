@@ -15,7 +15,7 @@ int main()
     long long summax = save[0];
     for (int i = 1; i < n; i++)
     {
-        if (a[i] + save[i - 1] > a[i])
+        if (save[i - 1] > 0)
         {
             save[i] = save[i - 1] + a[i];
             if (save[i] > summax)

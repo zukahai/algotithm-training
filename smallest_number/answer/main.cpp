@@ -1,23 +1,34 @@
-// Tìm số nguyên dương M nhỏ nhất sao cho tích các số trong M đúng bằng N.
-// Input: N (1 ≤ N ≤ 10^18)
+#include <iostream>
 
-#include <bits/stdc++.h>
 using namespace std;
+
+string getResult(long long n)
+{
+    if (n == 0)
+    {
+        return "10";
+    }
+    int number = 9;
+    string result = "";
+    while (number > 1)
+    {
+        while (n % number == 0)
+        {
+            n = n / number;
+            result = to_string(number) + result;
+                }
+        number--;
+    }
+    if (n != 1)
+    {
+        return "-1";
+    }
+    return result;
+}
+
 int main()
 {
     long long n;
     cin >> n;
-    long long m = 1;
-    for (int i = 2; i <= n; i++)
-    {
-        if (n % i == 0)
-        {
-            m *= i;
-            while (n % i == 0)
-            {
-                n /= i;
-            }
-        }
-    }
-    cout << m;
+    cout << getResult(n);
 }

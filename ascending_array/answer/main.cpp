@@ -12,20 +12,20 @@ int main()
         cin >> a[i];
     }
     save[0] = 1;
-    long long max = 1;
-    for (int i = 1; i < n; i++)
+    long long max = save[0];
+    for (long long i = 1; i < n; i++)
     {
-        if (a[i] < a[i - 1])
+        save[i] = 1;
+        for (long long j = i - 1; j >= 0; j--)
         {
-            save[i] = save[i - 1] + 1;
-            if (save[i] > max)
+            if (a[i] > a[j] && ( 1 + save[j]) > save[i])
             {
-                max = save[i];
+                save[i] = save[j] + 1;
             }
         }
-        else
+        if (save[i] > max)
         {
-            save[i] = 1;
+            max = save[i];
         }
     }
     cout << endl

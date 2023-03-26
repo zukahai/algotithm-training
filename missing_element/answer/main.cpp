@@ -17,7 +17,6 @@ int main()
     }
     for (long long i = 1; i <= n; i++)
     {
-       
         save[a[i]] = true;
     }
     for (long long i = 1; i <= n; i++)
