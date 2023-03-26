@@ -5,25 +5,31 @@ long long a[LENGHT];
 long long save[LENGHT];
 int main()
 {
-    long long n;
+    long long n, k;
+    k = 2;
     cin >> n;
     for (long long i = 0; i < n; i++)
     {
         cin >> a[i];
     }
     save[0] = a[0];
-    save[1] = a[1] + save[0];
-    for (long long i = 2; i < n; i++)
+    for (long long i = 1; i < n; i++)
     {
-        if (save[i - 1] > save[i - 2])
+        long long maxBefore = save[i - 1];
+        long long kTemp = 1;
+        while (kTemp <= k)
         {
-            save[i] += save[i - 1];
+            if (i - kTemp < 0)
+            {
+                break;
+            }
+            if (maxBefore < save[i - kTemp])
+            {
+                maxBefore = save[i - kTemp];
+            }
+            kTemp++;
         }
-        else
-        {
-            save[i] += save[i - 2];
-        }
-        save[i] += a[i];
+        save[i] = maxBefore + a[i];
     }
     cout << save[n - 1];
 }

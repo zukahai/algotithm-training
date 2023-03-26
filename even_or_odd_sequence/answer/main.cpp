@@ -33,16 +33,14 @@ int main()
         }
     }
     long long max = 0;
-    long long lengthMax = abs(save[0]);
     for (long long i = 0; i < n; i++)
     {
         if ((abs(save[i])) > (abs(save[max])))
         {
             max = i;
-            lengthMax = abs(save[i]);
         }
     }
-    for (long long i = (max - lengthMax) + 1; i <= max; i++)
+    for (long long i = (max - abs(save[max])) + 1; i <= max; i++)
     {
         cout << a[i] << " ";
     }
