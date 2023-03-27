@@ -1,5 +1,6 @@
 .vscode
 *.exe
+.cph
 smallest_number/random_test_case
 smallest_number/solution
 money_change/random_test_case
@@ -42,3 +43,7 @@ ascending_array_3/random_test_case
 ascending_array_3/solution
 number_prime/random_test_case
 number_prime/solution
+min_alike_number/random_test_case
+min_alike_number/solution
+max_alike_number/random_test_case
+max_alike_number/solution

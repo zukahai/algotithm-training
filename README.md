@@ -11,7 +11,7 @@
 |5| [SumN](https://github.com/zukahai/algotithm-training/tree/main/sum_n)|100| ✅| ✅|
 |6| [The Number That Appears The Most](https://github.com/zukahai/algotithm-training/tree/main/the_number_that_appears_the_most)|150| ✅| ✅|
 |7| [Divisors](https://github.com/zukahai/algotithm-training/tree/main/divisors)|100| ✅| ✅|
-|8| [Money Change](https://github.com/zukahai/algotithm-training/tree/main/money_change)|100| ✅| ❌|
+|8| [Money Change](https://github.com/zukahai/algotithm-training/tree/main/money_change)|100| ✅| ✅|
 |9| [Sales Increase](https://github.com/zukahai/algotithm-training/tree/main/sales_increase)|100| ✅| ✅|
 |10| [Lcm Gcd](https://github.com/zukahai/algotithm-training/tree/main/lcm_gcd)|120| ✅| ❌|
 |11| [Super Prime Number](https://github.com/zukahai/algotithm-training/tree/main/super_prime_number)|100| ✅| ❌|
@@ -33,4 +33,6 @@
 27| [Alike Array 2](https://github.com/zukahai/algotithm-training/tree/main/alike_array_2)|150| ❌| ❌|
 28| [Ascending Array 3](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_3)|100| ❌| ❌|
 29| [Number Prime](https://github.com/zukahai/algotithm-training/tree/main/number_prime)|120| ❌| ❌|
+30| [Min Alike Number](https://github.com/zukahai/algotithm-training/tree/main/min_alike_number)|100| ❌| ❌|
+30| [Max Alike Number](https://github.com/zukahai/algotithm-training/tree/main/max_alike_number)|100| ❌| ❌|
 </div>
