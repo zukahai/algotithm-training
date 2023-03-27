@@ -1,0 +1,15 @@
+Một só N gọi là Alike khi N là số nguyên dương có các chữ số hoàn toàn bằng nhau.
+Ví dụ: 1111, 222, 333, 7777777,... là các số Alike.
+
+Nhập và một số nguyên N, tìm số Alike nhỏ nhất lớn hơn N.
+
+Input:
+    1 dòng dua nhất chứa số nguyên N (|a| <= 10^1000)
+Output:
+    Số Alike nhỏ nhất lớn hơn N.
+
+Ví dụ mẫu:
+Input:
+1234
+Output:
+2222
