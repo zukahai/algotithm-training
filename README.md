@@ -38,4 +38,5 @@
 32| [Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/ascending_number)|100| ❌| ❌|
 33| [Min Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/min_ascending_number)|120| ❌| ❌|
 34| [Max Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/max_ascending_number)|120| ❌| ❌|
+35| [Number Square](https://github.com/zukahai/algotithm-training/tree/main/number_square)|150| ❌| ❌|
 </div>
