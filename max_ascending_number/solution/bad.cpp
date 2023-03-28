@@ -28,6 +28,6 @@ int main()
     long long n;
     cin >> n;
     while (solve(toString(n)) != "YES")
-        n++;
+        n--;
     cout << n << endl;
 }

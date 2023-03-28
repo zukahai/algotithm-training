@@ -19,14 +19,14 @@ int compare(string a, string b)
 string generateString(string s)
 {
     string ans = "", temp;
-    for (int i = 9; i >= 0; i--)
+    for (int i = 0; i <= 9; i++)
     {
-        temp = ans + char(i + '0');
-        if (compare(s, temp) <= 0)
-            return temp;
+        temp = char(i + '0') + ans;
+        if (compare(temp, s) > 0)
+            return (ans == "") ? "-1" : ans;
         ans = temp;
     }
-    return "-1";
+    return ans;
 }
 
 string decString(string s, int index)
@@ -43,12 +43,13 @@ string solve(string s)
         return p;
     for (int i = 0; i < p.size(); i++)
     {
-        while (p[p.size() - 1] != '0')
+        for (int j = p[i] - '0' + 1; j <= 9 && (j < p[i - 1] - '0' || (i == 0)); j++)
         {
-            string tem2 = decString(p, i);
-            if (compare(tem2, s) < 0)
+            string temp = p;
+            temp[i] = (j + '0');
+            if (compare(temp, s) > 0)
                 break;
-            p = tem2;
+            p = temp;
         }
     }
 }
