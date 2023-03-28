@@ -34,5 +34,5 @@
 28| [Ascending Array 3](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_3)|100| ❌| ❌|
 29| [Number Prime](https://github.com/zukahai/algotithm-training/tree/main/number_prime)|120| ❌| ❌|
 30| [Min Alike Number](https://github.com/zukahai/algotithm-training/tree/main/min_alike_number)|100| ❌| ❌|
-30| [Max Alike Number](https://github.com/zukahai/algotithm-training/tree/main/max_alike_number)|100| ❌| ❌|
+31| [Max Alike Number](https://github.com/zukahai/algotithm-training/tree/main/max_alike_number)|100| ❌| ❌|
 </div>
