@@ -1,0 +1,15 @@
+Một só N gọi là số ASC khi N là số tự nhiên có các chữ giảm dần.
+Ví dụ: 9876, 741, 8420, 80,... là các số ASC.
+
+Nhập và một số nguyên N, Tìm số ASC M lớn nhất nhỏ hơn hoặc bằng N.
+Nếu không tồn tại số nào thoả mãn, in ra -1.
+Input:
+    1 dòng duy nhất chứa số nguyên N (|a| <= 10^100)
+Output:
+    Số ASC M.
+
+Ví dụ mẫu:
+Input:
+345
+Output:
+321

@@ -47,3 +47,9 @@ min_alike_number/random_test_case
 min_alike_number/solution
 max_alike_number/random_test_case
 max_alike_number/solution
+ascending_number/random_test_case
+ascending_number/solution
+min_ascending_number/random_test_case
+min_ascending_number/solution
+max_ascending_number/random_test_case
+max_ascending_number/solution

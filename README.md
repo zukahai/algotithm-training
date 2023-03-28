@@ -5,7 +5,7 @@
 |#| Problem|Score| Nguyễn Văn Nam| Phan Việt Long|
 | :-----:|:-----:| :-----: | :-----: | :-: |
 |1| [A pow B](https://github.com/zukahai/algotithm-training/tree/main/a_pow_b)|200| ✅| ✅|
-|2| [Prime Array](https://github.com/zukahai/algotithm-training/tree/main/prime_array)|100| ✅| ❌|
+|2| [Prime Array](https://github.com/zukahai/algotithm-training/tree/main/prime_array)|100| ✅| ✅|
 |3| [Smallest Number](https://github.com/zukahai/algotithm-training/tree/main/smallest_number)|250| ✅| ❌|
 |4| [SumAB](https://github.com/zukahai/algotithm-training/tree/main/sum_a_b)|100| ✅| ✅|
 |5| [SumN](https://github.com/zukahai/algotithm-training/tree/main/sum_n)|100| ✅| ✅|
@@ -14,7 +14,7 @@
 |8| [Money Change](https://github.com/zukahai/algotithm-training/tree/main/money_change)|100| ✅| ✅|
 |9| [Sales Increase](https://github.com/zukahai/algotithm-training/tree/main/sales_increase)|100| ✅| ✅|
 |10| [Lcm Gcd](https://github.com/zukahai/algotithm-training/tree/main/lcm_gcd)|120| ✅| ❌|
-|11| [Super Prime Number](https://github.com/zukahai/algotithm-training/tree/main/super_prime_number)|100| ✅| ❌|
+|11| [Super Prime Number](https://github.com/zukahai/algotithm-training/tree/main/super_prime_number)|100| ✅| ✅|
 |12| [Super Prime Number 2](https://github.com/zukahai/algotithm-training/tree/main/super_prime_number_2)|200| ❌| ❌|
 |13| [Decreasing array](https://github.com/zukahai/algotithm-training/tree/main/decreasing_array)|120| ✅| ❌|
 |14| [Positive Number Array](https://github.com/zukahai/algotithm-training/tree/main/positive_number_array)|120| ✅| ✅|
@@ -34,5 +34,8 @@
 28| [Ascending Array 3](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_3)|100| ❌| ❌|
 29| [Number Prime](https://github.com/zukahai/algotithm-training/tree/main/number_prime)|120| ❌| ❌|
 30| [Min Alike Number](https://github.com/zukahai/algotithm-training/tree/main/min_alike_number)|100| ❌| ❌|
-30| [Max Alike Number](https://github.com/zukahai/algotithm-training/tree/main/max_alike_number)|100| ❌| ❌|
+31| [Max Alike Number](https://github.com/zukahai/algotithm-training/tree/main/max_alike_number)|100| ❌| ❌|
+32| [Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/ascending_number)|100| ❌| ❌|
+33| [Min Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/min_ascending_number)|120| ❌| ❌|
+34| [Max Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/max_ascending_number)|120| ❌| ❌|
 </div>
