@@ -36,4 +36,5 @@
 30| [Min Alike Number](https://github.com/zukahai/algotithm-training/tree/main/min_alike_number)|100| ❌| ❌|
 31| [Max Alike Number](https://github.com/zukahai/algotithm-training/tree/main/max_alike_number)|100| ❌| ❌|
 32| [Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/ascending_number)|100| ❌| ❌|
+33| [Min Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/min_ascending_number)|120| ❌| ❌|
 </div>
