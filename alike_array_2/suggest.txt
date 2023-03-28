@@ -1,1 +1,25 @@
-Chưa có
+Áp dụng quy hoạch động.
+
+Ta cần thay 1 số để được dãy giống nhau dài nhất.
+Khi thay 1 số a[i], ta chắc chắn sẽ thay a[i] thành a[i - 1] hoặc a[i + 1]
+Sau khi cập nhật ta cần tính được độ dài dãy giống nhau daif nhất
+Đặt:
+    b[i]: là độ dài dãy giống nhau dài nhất KẾT THÚC tại i
+    c[i]: là độ dài dãy giống nhau dài nhất BẮT ĐẦU tại i
+
+Chia trường hợp ra:
+    + a[i - 1] != a[i + 1]: tư tính :v 
+    + a[i - 1] = a[i + 1], thì độ dài của kết quả sau khi cập nhất a[i] thành a[i - 1] hoặc a[i + 1]
+    là b[i - 1] + c[i + 1] + 1
+
+
+Ví dụ dãy a:
+1 2 2 4 2 2 2 6
+Ta tính dãy b là
+1 1 2 1 1 2 3 1
+Dãy c là:
+1 2 1 1 3 2 1 1
+
+Kết quả là b[2] + c[4] + 1
+            = 2 + 3 + 1 = 6
+
