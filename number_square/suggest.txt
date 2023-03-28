@@ -1,0 +1,20 @@
+Cần tính xem có bao nhiều ô vuông kích thước 1x1, 2x2, ..., NxN
+
+Ví dụ N = 2
+Sẽ có 4 hình vuông được xếp như sau:
+    ._._.
+    |_|_|
+    |_|_|
+Có 4 hình vuông kích thước 1x1
+Có 1 hình vuông kích thước 2x2
+Tổng là 5 hình.
+
+Ví dụ N = 3
+    ._._._.
+    |_|_|_|
+    |_|_|_|
+    |_|_|_|
+Có 9 hình vuông kích thước 1x1
+Có 4 hình vuông kích thước 2x2
+Có 1 hình vuông kích thước 3x3
+Tổng là 14 hình.

@@ -14,9 +14,7 @@ Input:
 2 -3 2 6 1 2 4
 Output:
 4
-
 Giải thích: Dãy con giảm liên tiếp tăng rồi giảm dài nhất là -3, 2, 6, 1 có độ dài là 4
-
 
 Ví dụ mẫu 2:
 Input:
