@@ -30,7 +30,7 @@
 24| [Even Or Odd Sequence](https://github.com/zukahai/algotithm-training/tree/main/even_or_odd_sequence)|120| ✅| ❌|
 25| [Rabbit And Carrot](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot)|150| ✅| ❌|
 26| [Rabbit And Carrot 2](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot_2)|140| ✅| ❌|
-27| [Alike Array 2](https://github.com/zukahai/algotithm-training/tree/main/alike_array_2)|150| ❌| ❌|
+27| [Alike Array 2](https://github.com/zukahai/algotithm-training/tree/main/alike_array_2)|150| ✅| ❌|
 28| [Ascending Array 3](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_3)|100| ❌| ❌|
 29| [Number Prime](https://github.com/zukahai/algotithm-training/tree/main/number_prime)|120| ❌| ❌|
 30| [Min Alike Number](https://github.com/zukahai/algotithm-training/tree/main/min_alike_number)|100| ❌| ❌|
