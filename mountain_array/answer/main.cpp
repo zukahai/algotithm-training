@@ -2,7 +2,9 @@
 using namespace std;
 const long long LENGHT = 10e5;
 long long a[LENGHT];
-long long save[LENGHT];
+long long arrayAscEnd[LENGHT];
+long long arrayDecStart[LENGHT];
+long long saveMountain[LENGHT];
 int main()
 {
     long long n;
@@ -11,30 +13,51 @@ int main()
     {
         cin >> a[i];
     }
-    a[1] < a[0] ? save[0] = 0 : save[0] = 1;
+    arrayAscEnd[0] = 1;
+    arrayDecStart[n - 1] = 1;
     for (int i = 1; i < n; i++)
     {
         if (a[i] > a[i - 1])
         {
-            if (save[i - 1] == 0 || save[i - 1] == 1)
-            {
-                save[i] = 1;
-            }
-            if (save[i - 1] == 2)
-            {
-                save[i] = 0;
-            }
+            arrayAscEnd[i] = arrayAscEnd[i - 1] + 1;
         }
-        else if (a[i] < a[i - 1])
-        {
-            if (save[i - 1] == 1 || save[i - 1] == 2)
-            {
-                save[i] = 2;
-            }
-        }
+        else
+            arrayAscEnd[i] = 1;
     }
-    for (long long i = 0; i < n; i++)
+
+    for (int i = n - 2; i >= 0; i--)
     {
-        cout << save[i] << " ";
+        if (a[i] > a[i + 1])
+        {
+            arrayDecStart[i] = arrayDecStart[i + 1] + 1;
+        }
+        else
+            arrayDecStart[i] = 1;
     }
+
+    saveMountain[0] = 0;
+    long long max = saveMountain[0];
+    for (long long i = 1; i < n - 1; i++)
+    {
+        if (a[i] > a[i + 1] && arrayAscEnd[i] > arrayAscEnd[i - 1])
+        {
+            saveMountain[i] = arrayAscEnd[i] + arrayDecStart[i + 1];
+        }
+        else
+        {
+            saveMountain[i] = 0;
+        }
+        if (saveMountain[i] > max)
+        {
+            max = saveMountain[i];
+        }
+    }
+
+    if (max == 0)
+    {
+        cout << -1;
+        return 0;
+    }
+
+    cout << max;
 }

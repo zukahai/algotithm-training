@@ -2,12 +2,12 @@
 #include <bits/stdc++.h>
 using namespace std;
 const int LENGTH = 10000003;
+long long a[LENGTH];
 bool checkPrime[LENGTH];
 int main()
 {
    int number;
    cin >> number;
-   long long a[number];
    for (int i = 0; i < number; i++)
    {
       cin >> a[i];
