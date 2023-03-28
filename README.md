@@ -2,7 +2,7 @@
 
 # Algotithm Training
 
-|#| Problem|Score| Tags | Nguyễn Văn Nam| Phan Việt Long|
+|#| Problem|Score| Tags | Nguyễn Văn Nam 🌺| Phan Việt Long 👿|
 | :-----:|:-----:| :-----: |:-----: | :-----: | :-: |
 |1| [A pow B](https://github.com/zukahai/algotithm-training/tree/main/a_pow_b)|200|number| ✅| ✅|
 |2| [Prime Array](https://github.com/zukahai/algotithm-training/tree/main/prime_array)|100|sieve| ✅| ✅|
