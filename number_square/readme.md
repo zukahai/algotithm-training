@@ -1,22 +1,16 @@
-# Number Square
+Một hình vuông kích thước N\*N được tạo thành thành từ N\^2 hình vuông
+kích thước 1x1. Đếm xem hình vuông đó có bao nhiêu hình vuông nhỏ. Kết
+quả được chia lấy dư cho 10e9+1
 
-Cần tính xem có bao nhiều ô vuông kích thước 1x1, 2x2, ..., NxN
-
-Ví dụ N = 2
-Sẽ có 4 hình vuông được xếp như sau:
-    ._._.
-    |_|_|
-    |_|_|
-Có 4 hình vuông kích thước 1x1
-Có 1 hình vuông kích thước 2x2
+Ví dụ N = 2 Sẽ có 4 hình vuông được xếp như sau: .\_.\_. \|\_\|\_\|
+\|\_\|\_\| Có 4 hình vuông kích thước 1x1 Có 1 hình vuông kích thước 2x2
 Tổng là 5 hình.
 
-Ví dụ N = 3
-    ._._._.
-    |_|_|_|
-    |_|_|_|
-    |_|_|_|
-Có 9 hình vuông kích thước 1x1
-Có 4 hình vuông kích thước 2x2
-Có 1 hình vuông kích thước 3x3
-Tổng là 14 hình.
+Víd dụ N = 3 .\_.\_.\_. \|\_\|\_\|\_\| \|\_\|\_\|\_\| \|\_\|\_\|\_\| Có
+9 hình vuông kích thước 1x1 Có 4 hình vuông kích thước 2x2 Có 1 hình
+vuông kích thước 3x3 Tổng là 14 hình.
+
+Input: Một dòng duy nhất là số nguyên dương N (1 \<= N \<= 10\^18)
+Output: Số lượng hình vuông.
+
+Ví dụ mẫu: Input: 3 Output: 14
