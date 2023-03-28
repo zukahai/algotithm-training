@@ -33,9 +33,9 @@
 27| [Alike Array 2](https://github.com/zukahai/algotithm-training/tree/main/alike_array_2)|150|qhd| ✅| ❌|
 28| [Ascending Array 3](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_3)|150|qhd| ❌| ❌|
 29| [Number Prime](https://github.com/zukahai/algotithm-training/tree/main/number_prime)|120|sieve, qhd| ✅| ❌|
-30| [Min Alike Number](https://github.com/zukahai/algotithm-training/tree/main/min_alike_number)|100|number| ❌| ❌|
-31| [Max Alike Number](https://github.com/zukahai/algotithm-training/tree/main/max_alike_number)|100|number|❌| ❌|
-32| [Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/ascending_number)|100|number| ❌| ❌|
+30| [Min Alike Number](https://github.com/zukahai/algotithm-training/tree/main/min_alike_number)|100|number| ✅ ❌|
+31| [Max Alike Number](https://github.com/zukahai/algotithm-training/tree/main/max_alike_number)|100|number|✅ ❌|
+32| [Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/ascending_number)|100|number|✅ | ❌|
 33| [Min Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/min_ascending_number)|120|number| ❌| ❌|
 34| [Max Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/max_ascending_number)|120|number| ❌| ❌|
 35| [Number Square](https://github.com/zukahai/algotithm-training/tree/main/number_square)|150|mod| ❌| ❌|
