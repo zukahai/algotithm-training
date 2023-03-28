@@ -23,7 +23,7 @@
 |17| [Ascending Array 2](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_2)|200|qhd| ✅| ❌|
 18| [Missing Element](https://github.com/zukahai/algotithm-training/tree/main/missing_element)|100|array| ✅| ❌|
 19| [Missing Element 2](https://github.com/zukahai/algotithm-training/tree/main/missing_element_2)|120| array| ✅| ❌|
-20| [Mountain Array](https://github.com/zukahai/algotithm-training/tree/main/mountain_array)|150| ❌| ❌|
+20| [Mountain Array](https://github.com/zukahai/algotithm-training/tree/main/mountain_array)|150| ✅| ❌|
 21| [Miners And Gold](https://github.com/zukahai/algotithm-training/tree/main/miners_and_gold)|150| ✅| ❌|
 22| [Symmetric Chain](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain)|100| ✅| ✅|
 23| [Symmetric Chain 2](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain_2)|150| ❌| ❌|
@@ -32,7 +32,7 @@
 26| [Rabbit And Carrot 2](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot_2)|140| ✅| ❌|
 27| [Alike Array 2](https://github.com/zukahai/algotithm-training/tree/main/alike_array_2)|150| ✅| ❌|
 28| [Ascending Array 3](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_3)|100| ❌| ❌|
-29| [Number Prime](https://github.com/zukahai/algotithm-training/tree/main/number_prime)|120| ❌| ❌|
+29| [Number Prime](https://github.com/zukahai/algotithm-training/tree/main/number_prime)|120| ✅| ❌|
 30| [Min Alike Number](https://github.com/zukahai/algotithm-training/tree/main/min_alike_number)|100| ❌| ❌|
 31| [Max Alike Number](https://github.com/zukahai/algotithm-training/tree/main/max_alike_number)|100| ❌| ❌|
 32| [Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/ascending_number)|100| ❌| ❌|
