@@ -1,0 +1,16 @@
+Một só N gọi là số ASC khi N là số tự nhiên có các chữ giảm dần.
+Ví dụ: 9876, 741, 8420, 80,... là các số ASC.
+
+Nhập và một số nguyên N, kiểm tra xem N có phải số ASC hay không.
+In ra YES nếu phải, NO nếu ngược lại.
+
+Input:
+    1 dòng dua nhất chứa số nguyên N (|a| <= 10^100)
+Output:
+    YES hoặc NO theo yêu cầu đề bài.
+
+Ví dụ mẫu:
+Input:
+9721
+Output:
+YES
