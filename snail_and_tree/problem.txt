@@ -1,0 +1,21 @@
+Một con ốc sên ban ngày leo được một khoảng là A nhưng ban đêm lại bị tụt xuống một khoảng là B.
+Một cái cây có độ cao là H. Hãy tính xem ốc sên chạm đến ngọn cây vào ngày thứ mấy.
+
+Input:
+    Dòng đầu tiên gồm 2 số nguyên dương A và B (1 <= B < A <= 10^18)
+    Dòng thứ 2 gồm số nguyên dương H (1 <= H <= 10^18)
+Output:
+    Một dòng duy nhất là kết quả cần tìm.
+
+Ví dụ mẫu:
+Input:
+5 2
+9
+Output:
+3
+Giải thích:
+    Sáng ngày 1 ốc sên leo đến độ cao là 5
+    Tối ngày 1 ốc sên bị tụt xuống 2, ở độ cao là 3
+    Sáng ngày 2 ốc sên leo thêm 5, ở độ cao là 8
+    Tối ngày 2 ốc sêb bị tụt 2, ở độ cao là 7
+    Sáng ngày 3 ốc sên leo tới ngọn cây.

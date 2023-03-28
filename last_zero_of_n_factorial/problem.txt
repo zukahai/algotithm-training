@@ -1,0 +1,14 @@
+Đếm số lượng số 0 cuối cùng của N!
+
+Input:
+    Dòng duy nhất gồm tự nhiên N (0 <= N <= 10^18)
+Output:
+    Số số 0 cuối cùng của N giai thừa
+
+Ví dụ mẫu:
+Input:
+10
+Output:
+2
+Giải thích:
+    10! = 3628800 có 2 số 0 ở cuối cùng
