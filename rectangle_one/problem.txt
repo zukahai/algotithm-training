@@ -1,0 +1,26 @@
+Nhập vào một ma trận kích thước M x N gồm các số 0 hoặc 1
+Bạn có thể hoán vị các cột của ma trân với nhau.
+Tìm diện tích lớn nhất của hình chữ nhất toàn số 0.
+
+Input:
+    - Dòng đầu tiên là 2 số nguyên dương M, N (1 <= M, N <= 100)
+    - M dòng tiếp theo, mỗi dòng chứa N số nguyên 0 hoặc 1
+Output:
+    - Một dòng là kết quả cần tìm.
+Giới hạn thời gian 3000ms
+
+Test case mẫu:
+Input:
+3 5
+0 1 0 1 0
+0 1 0 1 1
+1 1 0 1 0
+Output:
+6
+
+Giải thích:
+Ta hoán vị cột chỉ số 0 và 3 cho nhau lúc đó ma trận sẽ thành
+1 1 0 0 0
+1 1 0 0 1
+1 1 0 1 0
+Lúc này diện tích hình chữ nhật toàn số 0 nhiều nhất sẽ là 6.
