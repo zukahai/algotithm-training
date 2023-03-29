@@ -1,5 +1,7 @@
 <div align="center">
+
 # Virus
+
 </div>
 
 Hải đang nghiên cứu một loại virus, virus này mỗi ngày sẽ nhân bản thành chính nó, nghĩa là nếu hôm nay có n virus thì ngày mai sẽ trở thành 2*n con virus. <br>
