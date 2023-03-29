@@ -6,7 +6,7 @@
 | :-----:|:-----:| :-----: |:-----: | :-----: | :-: |
 |1| [A pow B](https://github.com/zukahai/algotithm-training/tree/main/a_pow_b)|200|number| ✅| ✅|
 |2| [Prime Array](https://github.com/zukahai/algotithm-training/tree/main/prime_array)|100|sieve| ✅| ✅|
-|3| [Smallest Number](https://github.com/zukahai/algotithm-training/tree/main/smallest_number)|250|icpc| ✅| ❌|
+|3| [Smallest Number](https://github.com/zukahai/algotithm-training/tree/main/smallest_number)|250|icpc| ✅|✅ |
 |4| [SumAB](https://github.com/zukahai/algotithm-training/tree/main/sum_a_b)|100|mod| ✅| ✅|
 |5| [SumN](https://github.com/zukahai/algotithm-training/tree/main/sum_n)|100|mod| ✅| ✅|
 |6| [The Number That Appears The Most](https://github.com/zukahai/algotithm-training/tree/main/the_number_that_appears_the_most)|150|tick| ✅| ✅|
