@@ -1,16 +1,11 @@
 .vscode
-*.exe
 .cph
+*.exe
+*.bin
 smallest_number/random_test_case
 smallest_number/solution
-money_change/random_test_case
-money_change/solution
-sales_increase/random_test_case
-sales_increase/solution
 super_prime_number_2/random_test_case
 super_prime_number_2/solution
-super_prime_number/random_test_case
-super_prime_number/solution
 decreasing_array/random_test_case
 decreasing_array/solution
 positive_number_array/random_test_case
@@ -27,8 +22,6 @@ mountain_array/random_test_case
 mountain_array/solution
 miners_and_gold/random_test_case
 miners_and_gold/solution
-symmetric_chain/random_test_case
-symmetric_chain/solution
 symmetric_chain_2/random_test_case
 symmetric_chain_2/solution
 even_or_odd_sequence/random_test_case
@@ -61,3 +54,13 @@ last_zero_of_n_factorial/random_test_case
 last_zero_of_n_factorial/solution
 sum_array_equals_s/random_test_case
 sum_array_equals_s/solution
+rectangle_one/random_test_case
+rectangle_one/solution
+virus/random_test_case
+virus/solution
+perfect_square/random_test_case
+perfect_square/solution
+perfect_square _2/random_test_case
+perfect_square _2/solution
+perfect_square _3/random_test_case
+perfect_square _3/solution

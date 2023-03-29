@@ -39,7 +39,12 @@
 33| [Min Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/min_ascending_number)|120|number| ❌| ❌|
 34| [Max Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/max_ascending_number)|120|number| ❌| ❌|
 35| [Number Square](https://github.com/zukahai/algotithm-training/tree/main/number_square)|200|mod| ❌| ❌|
-36| [Snail And Tree](https://github.com/zukahai/algotithm-training/tree/main/snail_and_tree)|100|number| ❌| ❌|
+36| [Snail And Tree](https://github.com/zukahai/algotithm-training/tree/main/snail_and_tree)|100|number| ✅| ❌|
 37| [Last Zero Of N Factorial](https://github.com/zukahai/algotithm-training/tree/main/last_zero_of_n_factorial)|250|number| ❌| ❌|
 38| [Sum Array Equals S](https://github.com/zukahai/algotithm-training/tree/main/sum_array_equals_s)|200|array| ❌| ❌|
+39| [Rectangle One](https://github.com/zukahai/algotithm-training/tree/main/rectangle_one)|200|matrix| ❌| ❌|
+40| [Virus](https://github.com/zukahai/algotithm-training/tree/main/virus)|120|number| ❌| ❌|
+41| [Perfect Square](https://github.com/zukahai/algotithm-training/tree/main/perfect_square)|100|number| ❌| ❌|
+42| [Perfect Square 2](https://github.com/zukahai/algotithm-training/tree/main/perfect_square_2)|120|number| ❌| ❌|
+43| [Perfect Square 3](https://github.com/zukahai/algotithm-training/tree/main/perfect_square_3)|150|number| ❌| ❌|
 </div>
