@@ -1,6 +1,7 @@
 <div align="center">
 
 # sum_array_equals_s
+</div>
 
 Nhập vào số nguyên dương N và một mảng N số nguyên. <br>
 Đếm và in ra số lượng tất cả dãy con liên tiếp trong dãy có tổng bằng S.<br>
