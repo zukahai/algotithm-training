@@ -7,14 +7,12 @@ Input:
     Dòng thứ 2 gồm N phần tử cách nhau bởi một dấu cách (|a[i]| <= 10^9)
 Output:
     Một dòng duy nhất là kết quả cần tìm.
-
 Ví dụ mẫu:
 Input:
 7
 3 10 5 6 -7 9 3
 Output:
 4
-
 Giải thích:
 Thay 10 bằng 4.
 Dãy con đó là 3, 4, 5, 6. Có độ dài là 4.

@@ -23,6 +23,7 @@ string getResult(long long n)
     {
         return "-1";
     }
+    //số hoàn hảo là số gi 
     return result;
 }
 
