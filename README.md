@@ -44,4 +44,5 @@
 38| [Sum Array Equals S](https://github.com/zukahai/algotithm-training/tree/main/sum_array_equals_s)|200|array| ❌| ❌|
 39| [Rectangle One](https://github.com/zukahai/algotithm-training/tree/main/rectangle_one)|200|matrix| ❌| ❌|
 40| [Virus](https://github.com/zukahai/algotithm-training/tree/main/virus)|120|number| ❌| ❌|
+41| [Perfect Square](https://github.com/zukahai/algotithm-training/tree/main/virus)|perfect_square|number| ❌| ❌|
 </div>
