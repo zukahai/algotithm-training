@@ -1,6 +1,7 @@
 .vscode
-*.exe
 .cph
+*.exe
+*.bin
 smallest_number/random_test_case
 smallest_number/solution
 money_change/random_test_case
@@ -69,3 +70,5 @@ perfect_square/random_test_case
 perfect_square/solution
 perfect_square _2/random_test_case
 perfect_square _2/solution
+perfect_square _3/random_test_case
+perfect_square _3/solution
