@@ -26,7 +26,7 @@
 20| [Mountain Array](https://github.com/zukahai/algotithm-training/tree/main/mountain_array)|150|qhd| ✅| ❌|
 21| [Miners And Gold](https://github.com/zukahai/algotithm-training/tree/main/miners_and_gold)|150|qhd| ✅| ❌|
 22| [Symmetric Chain](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain)|100|string| ✅| ✅|
-23| [Symmetric Chain 2](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain_2)|150|string| ❌| ✅|
+23| [Symmetric Chain 2](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain_2)|150|string| ✅| ✅|
 24| [Even Or Odd Sequence](https://github.com/zukahai/algotithm-training/tree/main/even_or_odd_sequence)|120|qhd| ✅| ✅|
 25| [Rabbit And Carrot](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot)|150| qhd| ✅| ❌|
 26| [Rabbit And Carrot 2](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot_2)|140|qhd| ✅| ❌|
