@@ -1,0 +1,24 @@
+Hải đang nghiên cứu một loại virus, virus này mỗi ngày sẽ nhân bản thành chính nó, nghĩa là nếu hôm nay có n virus thì ngày mai sẽ trở thành 2*n con virus.
+Mỗi ngày Hải có thể bỏ vào nhiều nhất 1 con virus. Hãy tính xem Hải cần bỏ virus vào những ngày nào, và cần bao nhiêu ngày để Hải có đúng N con virus.
+
+Input:
+    - Dòng duy nhất là số virus mà Hải muốn(1 <= N <= 10^18)
+Output:
+    - Dòng đầu tiên là gồm số x và y (x là số ngày mà Hải đặt được số virus, y là số virus mà Hải phải bỏ vào)
+    - Dòng thứ 2 gồm y phần tử là chỉ số ngày mà Hải cần bỏ virus vào.
+Giới hạn thời gian 3000ms
+
+Test case mẫu:
+Input:
+13
+Output:
+1101
+4 3
+1 2 4
+
+Giải thích:
+Hải mất 4 ngày để có 13 con virus, các ngày bỏ thêm 1 con virus là 1, 2, 4
+Ngày 1 Hải bỏ 1 con virus: Số virus là 1
+Ngày 2 số virus tăng 2 lần thành 2, Hải bỏ thêm 1 con nữa, số virus là 3
+Ngày 3 số virus tăng 2 lần thành 6.
+Ngày 4 sô virus tăng 2 lần thành 12, Hải bỏ thêm 1 con nữa, Hải có đúng 13 con virus.
