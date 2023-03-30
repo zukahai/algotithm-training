@@ -6,7 +6,7 @@
 | :-----:|:-----:| :-----: |:-----: | :-----: | :-: |
 |1| [A pow B](https://github.com/zukahai/algotithm-training/tree/main/a_pow_b)|200|number| ✅| ✅|
 |2| [Prime Array](https://github.com/zukahai/algotithm-training/tree/main/prime_array)|100|sieve| ✅| ✅|
-|3| [Smallest Number](https://github.com/zukahai/algotithm-training/tree/main/smallest_number)|250|icpc| ✅| ❌|
+|3| [Smallest Number](https://github.com/zukahai/algotithm-training/tree/main/smallest_number)|250|icpc| ✅|✅ |
 |4| [SumAB](https://github.com/zukahai/algotithm-training/tree/main/sum_a_b)|100|mod| ✅| ✅|
 |5| [SumN](https://github.com/zukahai/algotithm-training/tree/main/sum_n)|100|mod| ✅| ✅|
 |6| [The Number That Appears The Most](https://github.com/zukahai/algotithm-training/tree/main/the_number_that_appears_the_most)|150|tick| ✅| ✅|
@@ -26,7 +26,7 @@
 20| [Mountain Array](https://github.com/zukahai/algotithm-training/tree/main/mountain_array)|150|qhd| ✅| ❌|
 21| [Miners And Gold](https://github.com/zukahai/algotithm-training/tree/main/miners_and_gold)|150|qhd| ✅| ❌|
 22| [Symmetric Chain](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain)|100|string| ✅| ✅|
-23| [Symmetric Chain 2](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain_2)|150|string| ❌| ❌|
+23| [Symmetric Chain 2](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain_2)|150|string| ✅| ✅|
 24| [Even Or Odd Sequence](https://github.com/zukahai/algotithm-training/tree/main/even_or_odd_sequence)|120|qhd| ✅| ✅|
 25| [Rabbit And Carrot](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot)|150| qhd| ✅| ❌|
 26| [Rabbit And Carrot 2](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot_2)|140|qhd| ✅| ❌|
@@ -44,8 +44,9 @@
 38| [Sum Array Equals S](https://github.com/zukahai/algotithm-training/tree/main/sum_array_equals_s)|200|array| ❌| ❌|
 39| [Rectangle One](https://github.com/zukahai/algotithm-training/tree/main/rectangle_one)|200|matrix| ❌| ❌|
 40| [Virus](https://github.com/zukahai/algotithm-training/tree/main/virus)|120|number| ❌| ❌|
-41| [Perfect Square](https://github.com/zukahai/algotithm-training/tree/main/perfect_square)|100|number| ❌| ❌|
-42| [Perfect Square 2](https://github.com/zukahai/algotithm-training/tree/main/perfect_square_2)|120|number| ❌| ❌|
+41| [Perfect Square](https://github.com/zukahai/algotithm-training/tree/main/perfect_square)|100|number|✅ | ❌|
+42| [Perfect Square 2](https://github.com/zukahai/algotithm-training/tree/main/perfect_square_2)|120|number| ✅| ❌|
 43| [Perfect Square 3](https://github.com/zukahai/algotithm-training/tree/main/perfect_square_3)|150|number| ❌| ❌|
 44| [Divisors Array](https://github.com/zukahai/algotithm-training/tree/main/divisors_array)|100|array| ❌| ❌|
 </div>
+
