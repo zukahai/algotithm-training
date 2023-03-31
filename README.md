@@ -22,7 +22,7 @@
 |16| [Max Sum Array](https://github.com/zukahai/algotithm-training/tree/main/max_sum_array)|150|qhd| ✅| ✅|❌|
 |17| [Ascending Array 2](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_2)|200|qhd| ✅| ❌|❌|
 18| [Missing Element](https://github.com/zukahai/algotithm-training/tree/main/missing_element)|100|array| ✅|✅|✅|
-19| [Missing Element 2](https://github.com/zukahai/algotithm-training/tree/main/missing_element_2)|120| array| ✅| ❌|❌|
+19| [Missing Element 2](https://github.com/zukahai/algotithm-training/tree/main/missing_element_2)|120| array|✅|✅|❌|
 20| [Mountain Array](https://github.com/zukahai/algotithm-training/tree/main/mountain_array)|150|qhd| ✅| ❌|❌|
 21| [Miners And Gold](https://github.com/zukahai/algotithm-training/tree/main/miners_and_gold)|150|qhd| ✅| ❌|❌|
 22| [Symmetric Chain](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain)|100|string| ✅|✅|❌|
