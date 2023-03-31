@@ -16,6 +16,6 @@ Output:<br>
 Ví dụ mẫu:<br>
 Input:<br>
 4<br>
-4 8 6 10 2<br>
+4 8 6 10<br>
 Output:<br>
 2<br>

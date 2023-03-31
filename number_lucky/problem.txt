@@ -1,0 +1,17 @@
+Theo quan điểm ngày xưa, số 4 và số 7 sẽ đưa lại may mắn.
+Một số được gọi là number lucky khi tất cả nhưng chữ số trong nó đều là 4 hoặc 7.
+Nhập vào một số nguyên N, kiểm tra xem N có phải number lucky hay không.
+Nếu N là number lucky thì in ra YES, ngược lại in ra NO.
+
+Input:
+    - Dòng duy nhất gồm số nguyên N (|N| <= 10^1000)
+Output:
+    YES hoặc NO là kết quả cần tìm
+
+Giới hạn thời gian 1000ms
+
+Test case mẫu:
+Input:
+447774
+Output:
+YES

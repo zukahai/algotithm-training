@@ -33,7 +33,7 @@
 27| [Alike Array 2](https://github.com/zukahai/algotithm-training/tree/main/alike_array_2)|150|qhd| ✅| ❌|
 28| [Ascending Array 3](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_3)|150|qhd| ❌| ❌|
 29| [Number Prime](https://github.com/zukahai/algotithm-training/tree/main/number_prime)|120|sieve, qhd| ✅| ❌|
-30| [Min Alike Number](https://github.com/zukahai/algotithm-training/tree/main/min_alike_number)|100|number| ✅ |❌|
+30| [Min Alike Number](https://github.com/zukahai/algotithm-training/tree/main/min_alike_number)|100|number| ✅ |✅|
 31| [Max Alike Number](https://github.com/zukahai/algotithm-training/tree/main/max_alike_number)|100|number|✅ |❌|
 32| [Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/ascending_number)|100|number|✅ | ❌|
 33| [Min Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/min_ascending_number)|120|number| ❌| ❌|
@@ -47,6 +47,10 @@
 41| [Perfect Square](https://github.com/zukahai/algotithm-training/tree/main/perfect_square)|100|number|✅ | ❌|
 42| [Perfect Square 2](https://github.com/zukahai/algotithm-training/tree/main/perfect_square_2)|120|number| ✅| ❌|
 43| [Perfect Square 3](https://github.com/zukahai/algotithm-training/tree/main/perfect_square_3)|150|number| ❌| ❌|
-44| [Divisors Array](https://github.com/zukahai/algotithm-training/tree/main/divisors_array)|100|array| ❌| ❌|
+44| [Divisors Array](https://github.com/zukahai/algotithm-training/tree/main/divisors_array)|100|array| ✅| ❌|
+45| [Divisors Array 2](https://github.com/zukahai/algotithm-training/tree/main/divisors_array_2)|250|array| ❌| ❌|
+46| [Seesaw](https://github.com/zukahai/algotithm-training/tree/main/seesaw)|100|number| ❌| ❌|
+47| [Number Lucky](https://github.com/zukahai/algotithm-training/tree/main/number_lucky)|100|number| 
+48| [Number Lucky 2](https://github.com/zukahai/algotithm-training/tree/main/number_lucky_2)|100|number|❌| ❌|
 </div>
 

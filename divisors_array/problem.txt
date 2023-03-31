@@ -10,6 +10,6 @@ Output:
 Ví dụ mẫu:
 Input:
 4
-4 8 6 10 2
+4 8 6 10
 Output:
 2
