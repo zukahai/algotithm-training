@@ -41,8 +41,3 @@ Có 22 bộ 3 đó là:<br>
 4 4 5<br>
 4 5 5<br>
 5 5 5<br>
-
-### Testcase 1:
-|Input| Output|
-|-----|:-----:|
-|3 4 5 | YES|
