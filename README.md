@@ -53,5 +53,5 @@
 47| [Number Lucky](https://github.com/zukahai/algotithm-training/tree/main/number_lucky)|100|number| ✅| ❌|
 48| [Number Lucky 2](https://github.com/zukahai/algotithm-training/tree/main/number_lucky_2)|100|number|❌| ❌|
 49| [Shoes Game](https://github.com/zukahai/algotithm-training/tree/main/shoes_game)|150|icpc|❌| ❌|
+50| [Smallest Number Of Bags](https://github.com/zukahai/algotithm-training/tree/main/smallest_number_of_bags)|100|array|❌| ❌|
 </div>
-
