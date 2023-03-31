@@ -11,7 +11,6 @@ int main()
         cout << -1;
         return 0;
     }
-
     if (length < 2)
     {
         if (n[0] <= '1')
