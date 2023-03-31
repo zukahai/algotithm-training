@@ -22,7 +22,7 @@
 |16| [Max Sum Array](https://github.com/zukahai/algotithm-training/tree/main/max_sum_array)|150|qhd| ✅| ✅|❌|
 |17| [Ascending Array 2](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_2)|200|qhd| ✅| ❌|❌|
 18| [Missing Element](https://github.com/zukahai/algotithm-training/tree/main/missing_element)|100|array| ✅|✅|✅|
-19| [Missing Element 2](https://github.com/zukahai/algotithm-training/tree/main/missing_element_2)|120| array|✅|✅|❌|
+19| [Missing Element 2](https://github.com/zukahai/algotithm-training/tree/main/missing_element_2)|120| array|✅|✅|✅|
 20| [Mountain Array](https://github.com/zukahai/algotithm-training/tree/main/mountain_array)|150|qhd| ✅| ❌|❌|
 21| [Miners And Gold](https://github.com/zukahai/algotithm-training/tree/main/miners_and_gold)|150|qhd| ✅| ❌|❌|
 22| [Symmetric Chain](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain)|100|string| ✅|✅|❌|
@@ -52,6 +52,6 @@
 46| [Seesaw](https://github.com/zukahai/algotithm-training/tree/main/seesaw)|100|number|✅| ❌|❌|
 47| [Number Lucky](https://github.com/zukahai/algotithm-training/tree/main/number_lucky)|100|number| ✅|❌|❌|
 48| [Number Lucky 2](https://github.com/zukahai/algotithm-training/tree/main/number_lucky_2)|100|number|✅|❌|❌|
-49| [Shoes Game](https://github.com/zukahai/algotithm-training/tree/main/shoes_game)|150|icpc|❌| ❌|❌|
-50| [Smallest Number Of Bags](https://github.com/zukahai/algotithm-training/tree/main/smallest_number_of_bags)|100|array|❌|❌|❌| 
+49| [Shoes Game](https://github.com/zukahai/algotithm-training/tree/main/shoes_game)|150|icpc|✅| ❌|❌|
+50| [Smallest Number Of Bags](https://github.com/zukahai/algotithm-training/tree/main/smallest_number_of_bags)|100|array|✅|❌|❌| 
 </div>
