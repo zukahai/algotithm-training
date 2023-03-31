@@ -16,7 +16,7 @@ Output:<br>
 
 ### Testcase 1:
 |Input| Output|
-| :-----:|:-----:|
+|-----|:-----:|
 |4 1<br>10 14 20 25| 5|
 
 Giải thích:<br>
@@ -25,7 +25,7 @@ Bạn cần xoá số 14 và ước chung lớn nhất của dãy sẽ là 5.<br
 
 ### Testcase 2:
 |Input| Output|
-| :-----:|:-----:|
+|-----|:-----:|
 |5 2<br>6 9 2 18 10| 3|
 
 
