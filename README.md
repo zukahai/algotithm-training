@@ -49,6 +49,8 @@
 43| [Perfect Square 3](https://github.com/zukahai/algotithm-training/tree/main/perfect_square_3)|150|number| ❌| ❌|
 44| [Divisors Array](https://github.com/zukahai/algotithm-training/tree/main/divisors_array)|100|array| ✅| ❌|
 45| [Divisors Array 2](https://github.com/zukahai/algotithm-training/tree/main/divisors_array_2)|250|array| ❌| ❌|
-46| [Seesaw](https://github.com/zukahai/algotithm-training/tree/main/seesaw)|100|array| ❌| ❌|
+46| [Seesaw](https://github.com/zukahai/algotithm-training/tree/main/seesaw)|100|number| ❌| ❌|
+47| [Number Lucky](https://github.com/zukahai/algotithm-training/tree/main/number_lucky)|100|number| 
+48| [Number Lucky 2](https://github.com/zukahai/algotithm-training/tree/main/number_lucky_2)|100|number|❌| ❌|
 </div>
 

@@ -1,0 +1,11 @@
+Nhận thấy ra số Numberlucky2 sẽ biểu được được bằng
+
+n = 4a + 7b
+Được biệt ta có thể chuyển đổi 4b thành 7a:
+n = 4a + 7b = 4(a + 7) +7(b - 4)
+Nếu b >= 4
+
+Bằng các chuyển đổi này. Nếu n là số Numberlucky2 thì n có thể biểu diễn:
+n = 4A + 7B với B < 4
+
+Nên ta chỉ cần kiểm tra n - 7B (B chạy từ 0 đến 3), nếu n - 7B chia hết cho 4 thì n là số Numberlucky2
