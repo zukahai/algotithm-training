@@ -21,6 +21,15 @@ Input:<br>
 Output:<br>
 5<br>
 
+<div align="center">
+
+|Input| Output|
+| :-----:|:-----:|
+|4 1
+10 14 20 25| 5|
+
+</div>
+
 Giải thích:
 Bạn cần xoá số 14 và ước chung lớn nhất của dãy sẽ là 5.
 
