@@ -1,4 +1,4 @@
-Trong khuôn viên của VKU có một cái bập bệnh rất lớn.
+Trong khuôn viên của VKU có một cái bập bênh rất lớn.
 Bập bênh sẽ cân bằng khi tổng cân nặng của 2 bên bằng nhau.
 Có 4 người có cân nặng a, b, c, d. Hãy kiểm tra xem có thể sắp xếp người lên chiếc bập bênh để bập bênh cân bằng hay không.
 Nếu sắp xếp được thì in ra YES, còn không in ra NO

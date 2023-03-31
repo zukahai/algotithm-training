@@ -1,0 +1,14 @@
+Nhập vào 3 số nguyên a, b, c. Kiểm tra xem các số đó có thể là 3 cạnh của một tam giác được hay không?
+Nếu được thì in ra YES, ngược lại in ra NO
+
+Input:
+    - Dòng duy nhất chứa 3 số a, b, c(|a|, |b|, |c| <= 10^9)
+Output:
+    - Dòng duy nhất chứa YES hoặc NO
+Giới hạn thời gian 1000ms
+
+Test case mẫu:
+Input:
+3 4 5
+Output:
+YES
