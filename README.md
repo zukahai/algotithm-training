@@ -7,21 +7,21 @@
 |1| [A pow B](https://github.com/zukahai/algotithm-training/tree/main/a_pow_b)|200|number| ✅| ✅|❌|
 |2| [Prime Array](https://github.com/zukahai/algotithm-training/tree/main/prime_array)|100|sieve| ✅| ✅|✅|
 |3| [Smallest Number](https://github.com/zukahai/algotithm-training/tree/main/smallest_number)|250|icpc| ✅|✅ |❌|
-|4| [SumAB](https://github.com/zukahai/algotithm-training/tree/main/sum_a_b)|100|mod| ✅| ✅|❌|
+|4| [SumAB](https://github.com/zukahai/algotithm-training/tree/main/sum_a_b)|100|mod| ✅| ✅|✅|
 |5| [SumN](https://github.com/zukahai/algotithm-training/tree/main/sum_n)|100|mod| ✅| ✅|❌|
 |6| [The Number That Appears The Most](https://github.com/zukahai/algotithm-training/tree/main/the_number_that_appears_the_most)|150|tick| ✅| ✅|❌|
-|7| [Divisors](https://github.com/zukahai/algotithm-training/tree/main/divisors)|100| number| ✅| ✅|❌|
-|8| [Money Change](https://github.com/zukahai/algotithm-training/tree/main/money_change)|100|greed| ✅| ✅|❌|
-|9| [Sales Increase](https://github.com/zukahai/algotithm-training/tree/main/sales_increase)|100|qhd| ✅| ✅|❌|
+|7| [Divisors](https://github.com/zukahai/algotithm-training/tree/main/divisors)|100| number| ✅| ✅|✅|
+|8| [Money Change](https://github.com/zukahai/algotithm-training/tree/main/money_change)|100|greed| ✅| ✅|✅|
+|9| [Sales Increase](https://github.com/zukahai/algotithm-training/tree/main/sales_increase)|100|qhd| ✅| ✅|✅|
 |10| [Lcm Gcd](https://github.com/zukahai/algotithm-training/tree/main/lcm_gcd)|120|number| ✅| ❌|❌|
-|11| [Super Prime Number](https://github.com/zukahai/algotithm-training/tree/main/super_prime_number)|100|number| ✅| ✅|❌|
+|11| [Super Prime Number](https://github.com/zukahai/algotithm-training/tree/main/super_prime_number)|100|number| ✅| ✅|✅|
 |12| [Super Prime Number 2](https://github.com/zukahai/algotithm-training/tree/main/super_prime_number_2)|200|number| ❌| ❌|❌|
 |13| [Decreasing array](https://github.com/zukahai/algotithm-training/tree/main/decreasing_array)|120|qhd| ✅| ❌|❌|
 |14| [Positive Number Array](https://github.com/zukahai/algotithm-training/tree/main/positive_number_array)|120|qhd| ✅| ✅|❌|
 |15| [Alike Array](https://github.com/zukahai/algotithm-training/tree/main/alike_array)|120|qhd| ✅| ✅|❌|
 |16| [Max Sum Array](https://github.com/zukahai/algotithm-training/tree/main/max_sum_array)|150|qhd| ✅| ✅|❌|
 |17| [Ascending Array 2](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_2)|200|qhd| ✅| ❌|❌|
-18| [Missing Element](https://github.com/zukahai/algotithm-training/tree/main/missing_element)|100|array| ✅| ❌|❌|
+18| [Missing Element](https://github.com/zukahai/algotithm-training/tree/main/missing_element)|100|array| ✅| ❌|✅|
 19| [Missing Element 2](https://github.com/zukahai/algotithm-training/tree/main/missing_element_2)|120| array| ✅| ❌|❌|
 20| [Mountain Array](https://github.com/zukahai/algotithm-training/tree/main/mountain_array)|150|qhd| ✅| ❌|❌|
 21| [Miners And Gold](https://github.com/zukahai/algotithm-training/tree/main/miners_and_gold)|150|qhd| ✅| ❌|❌|
