@@ -14,21 +14,20 @@ Input:<br>
 Output:<br>
     Một dòng duy nhất là kết quả cần tìm.<br>
 
-Ví dụ mẫu:<br>
-Input:<br>
-4 1<br>
-10 14 20 25<br>
-Output:<br>
-5<br>
-
-<div align="center">
+Testcase 1:
 
 |Input| Output|
 | :-----:|:-----:|
 |4 1<br>10 14 20 25| 5|
 
-</div>
+Giải thích:<br>
+Bạn cần xoá số 14 và ước chung lớn nhất của dãy sẽ là 5.<br>
 
-Giải thích:
-Bạn cần xoá số 14 và ước chung lớn nhất của dãy sẽ là 5.
+
+Testcase 2:
+
+|Input| Output|
+| :-----:|:-----:|
+|5 2<br>6 9 2 18 10| 3|
+
 
