@@ -1,5 +1,7 @@
 <div align="center">
+
 # Perfect Square
+
 </div>
 
 Một số chính phương là số mà nó có thể biểu diễn dưới dạng bình phương của một số. <br>
