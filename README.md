@@ -48,5 +48,6 @@
 42| [Perfect Square 2](https://github.com/zukahai/algotithm-training/tree/main/perfect_square_2)|120|number| ✅| ❌|
 43| [Perfect Square 3](https://github.com/zukahai/algotithm-training/tree/main/perfect_square_3)|150|number| ❌| ❌|
 44| [Divisors Array](https://github.com/zukahai/algotithm-training/tree/main/divisors_array)|100|array| ✅| ❌|
+45| [Divisors Array](https://github.com/zukahai/algotithm-training/tree/main/divisors_array_2)|250|array| ✅| ❌|
 </div>
 
