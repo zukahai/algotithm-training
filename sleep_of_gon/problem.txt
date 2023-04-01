@@ -1,0 +1,34 @@
+Giấc ngủ của Gôn.
+Gôn là một người rất hay thích ngủ khi trong khi đang làm bài tập của Hải.
+Tuy nhiên do phòng khá ồn nên giấc ngủ của Gôn thường bị gián đoạn. Trong lúc ngủ Gôn có thể thức xong ngủ lại.
+Tiến trình giấc ngủ gồm các dòng
+1 h m: nghĩa là Gôn đi ngủ vào lúc h (giờ), m (phút)
+2 h m: Nghĩa là Gôn thức dậy và lúc h (giờ), m (phút)
+(0 <= h < 24 | 0 <= m < 60)
+Biết một lần ngủ của Gôn luôn nhỏ hơn 24 giờ.
+Hãy tính tổng số phút ngủ của Gôn, dựa trên tiến trình ngủ của Gôn.
+
+Input:
+    - Dòng duy nhất số nguyên dương chẵn N(1 <= N <= 10^5)
+    - N dòng tiếp theo là tiến trình ngủ của Gôn
+Output:
+    - Số phút Gôn ngủ
+
+Giới hạn thời gian 1000ms
+
+Test case mẫu:
+Input:
+4
+1 9 40
+2 10 00
+1 11 00
+2 12 00
+Output:
+80
+
+Giải thích:
+Hải mất 4 ngày để có 13 con virus, các ngày bỏ thêm 1 con virus là 1, 2, 4
+Ngày 1 Hải bỏ 1 con virus: Số virus là 1
+Ngày 2 số virus tăng 2 lần thành 2, Hải bỏ thêm 1 con nữa, số virus là 3
+Ngày 3 số virus tăng 2 lần thành 6.
+Ngày 4 sô virus tăng 2 lần thành 12, Hải bỏ thêm 1 con nữa, Hải có đúng 13 con virus.

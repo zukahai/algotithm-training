@@ -25,7 +25,7 @@
 19| [Missing Element 2](https://github.com/zukahai/algotithm-training/tree/main/missing_element_2)|120| array|✅|✅|✅|
 20| [Mountain Array](https://github.com/zukahai/algotithm-training/tree/main/mountain_array)|150|qhd| ✅| ❌|❌|
 21| [Miners And Gold](https://github.com/zukahai/algotithm-training/tree/main/miners_and_gold)|150|qhd| ✅| ❌|❌|
-22| [Symmetric Chain](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain)|100|string| ✅|✅|❌|
+22| [Symmetric Chain](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain)|100|string| ✅|✅|✅|
 23| [Symmetric Chain 2](https://github.com/zukahai/algotithm-training/tree/main/symmetric_chain_2)|150|string| ✅|✅|❌|
 24| [Even Or Odd Sequence](https://github.com/zukahai/algotithm-training/tree/main/even_or_odd_sequence)|120|qhd| ✅|✅|❌|
 25| [Rabbit And Carrot](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot)|150| qhd| ✅| ❌|❌|
@@ -57,5 +57,6 @@
 51| [Sides Of Triangle](https://github.com/zukahai/algotithm-training/tree/main/sides_of_triangle)|100|number|✅|❌|❌|
 52| [Sides Of Triangle 2](https://github.com/zukahai/algotithm-training/tree/main/sides_of_triangle_2)|200|number|❌|❌|❌|
 53| [Sides Of Triangle 3](https://github.com/zukahai/algotithm-training/tree/main/sides_of_triangle_3)|300|number|❌|❌|❌|
+54| [Sleep Of Gon](https://github.com/zukahai/algotithm-training/tree/main/sleep_of_gon)|100|time|❌|❌|❌|
 
 </div>
