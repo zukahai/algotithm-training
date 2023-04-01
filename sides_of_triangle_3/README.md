@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sides of triangle 2
+# Sides of triangle 3
 
 </div>
 
