@@ -35,7 +35,7 @@
 29| [Number Prime](https://github.com/zukahai/algotithm-training/tree/main/number_prime)|120|sieve, qhd| ✅| ❌|❌|
 30| [Min Alike Number](https://github.com/zukahai/algotithm-training/tree/main/min_alike_number)|100|number| ✅|✅|❌|
 31| [Max Alike Number](https://github.com/zukahai/algotithm-training/tree/main/max_alike_number)|100|number|✅|✅|❌|
-32| [Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/ascending_number)|100|number|✅|❌|❌|
+32| [Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/ascending_number)|100|number|✅|❌|✅|
 33| [Min Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/min_ascending_number)|120|number| ❌| ❌|❌|
 34| [Max Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/max_ascending_number)|120|number| ❌| ❌|❌|
 35| [Number Square](https://github.com/zukahai/algotithm-training/tree/main/number_square)|200|mod| ❌|❌|❌|
@@ -58,5 +58,6 @@
 52| [Sides Of Triangle 2](https://github.com/zukahai/algotithm-training/tree/main/sides_of_triangle_2)|200|number|❌|❌|❌|
 53| [Sides Of Triangle 3](https://github.com/zukahai/algotithm-training/tree/main/sides_of_triangle_3)|300|number|❌|❌|❌|
 54| [Sleep Of Gon](https://github.com/zukahai/algotithm-training/tree/main/sleep_of_gon)|100|time|❌|❌|❌|
+55| [Password Lock](https://github.com/zukahai/algotithm-training/tree/main/password_lock)|100|string|❌|❌|❌|
 
 </div>
