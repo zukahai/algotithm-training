@@ -57,5 +57,6 @@
 51| [Sides Of Triangle](https://github.com/zukahai/algotithm-training/tree/main/sides_of_triangle)|100|number|✅|❌|❌|
 52| [Sides Of Triangle 2](https://github.com/zukahai/algotithm-training/tree/main/sides_of_triangle_2)|200|number|❌|❌|❌|
 53| [Sides Of Triangle 3](https://github.com/zukahai/algotithm-training/tree/main/sides_of_triangle_3)|300|number|❌|❌|❌|
+54| [Sleep Of Gon](https://github.com/zukahai/algotithm-training/tree/main/sleep_of_gon)|100|time|❌|❌|❌|
 
 </div>
