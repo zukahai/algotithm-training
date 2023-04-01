@@ -1,6 +1,7 @@
-Nhập vào một số nguyên dương N. Kiểm tra xem có bao nhiêu bộ số a, b, c (a <= b <= c).
+Với số nguyên dương N. Kiểm tra xem có bao nhiêu bộ số a, b, c (a <= b <= c).
 
 Input:
+    - Dòng 
     - Dòng duy nhất chứa một số nguyên dương N (1 <= N <= 10^4)
 Output:
     - Số lượng bộ ba (a, b, c) thoã mãn

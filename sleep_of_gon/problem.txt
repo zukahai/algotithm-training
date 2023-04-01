@@ -27,8 +27,5 @@ Output:
 80
 
 Giải thích:
-Hải mất 4 ngày để có 13 con virus, các ngày bỏ thêm 1 con virus là 1, 2, 4
-Ngày 1 Hải bỏ 1 con virus: Số virus là 1
-Ngày 2 số virus tăng 2 lần thành 2, Hải bỏ thêm 1 con nữa, số virus là 3
-Ngày 3 số virus tăng 2 lần thành 6.
-Ngày 4 sô virus tăng 2 lần thành 12, Hải bỏ thêm 1 con nữa, Hải có đúng 13 con virus.
+Gôn ngủ từ 9h40 đến 10h00: 20 phút.
+Gôn ngủ từ 11h00 đến 12h00: 60 phút.
