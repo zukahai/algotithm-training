@@ -55,5 +55,7 @@
 49| [Shoes Game](https://github.com/zukahai/algotithm-training/tree/main/shoes_game)|150|icpc|✅| ❌|❌|
 50| [Smallest Number Of Bags](https://github.com/zukahai/algotithm-training/tree/main/smallest_number_of_bags)|100|array|✅|❌|❌|
 51| [Sides Of Triangle](https://github.com/zukahai/algotithm-training/tree/main/sides_of_triangle)|100|number|✅|❌|❌|
-52| [Sides Of Triangle 2](https://github.com/zukahai/algotithm-training/tree/main/sides_of_triangle_2)|200|number|❌|❌|❌| 
+52| [Sides Of Triangle 2](https://github.com/zukahai/algotithm-training/tree/main/sides_of_triangle_2)|200|number|❌|❌|❌|
+53| [Sides Of Triangle 3](https://github.com/zukahai/algotithm-training/tree/main/sides_of_triangle_3)|300|number|❌|❌|❌|
+
 </div>

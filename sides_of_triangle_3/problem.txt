@@ -1,0 +1,39 @@
+Nhập vào một số nguyên dương N. Kiểm tra xem có bao nhiêu bộ số a, b, c (a <= b <= c).
+Kết quả lấy dư cho 10e9+7
+
+Input:
+    - Dòng duy nhất chứa một số nguyên dương N (1 <= N <= 10^18)
+Output:
+    - Số lượng bộ ba (a, b, c) thoả mãn
+Giới hạn thời gian 1000ms
+
+Test case mẫu:
+Input:
+5
+Output:
+22
+
+Giải thích:
+Có 22 bộ 3 đó là:
+1 1 1
+1 2 2
+1 3 3
+1 4 4
+1 5 5
+2 2 2
+2 2 3
+2 3 3
+2 3 4
+2 4 4
+2 4 5
+2 5 5
+3 3 3
+3 3 4
+3 3 5
+3 4 4
+3 4 5
+3 5 5
+4 4 4
+4 4 5
+4 5 5
+5 5 5
