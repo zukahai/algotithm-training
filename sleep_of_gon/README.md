@@ -22,15 +22,12 @@ Output:<br>
 Giới hạn thời gian 1000ms<br>
 <br>
 Test case mẫu:<br>
-Input:<br>
-4<br>
-1 9 40<br>
-2 10 00<br>
-1 11 00<br>
-2 12 00<br>
-Output:<br>
-80<br>
-<br>
+
+### Testcase 1:
+|Input| Output|
+|-----|:-----:|
+|4<br>1 9 40<br>2 10 00<br>1 11 00<br>2 12 00<br>| 80|
+
 Giải thích:<br>
 Gôn ngủ từ 9h40 đến 10h00: 20 phút.<br>
 Gôn ngủ từ 11h00 đến 12h00: 60 phút.<br>
