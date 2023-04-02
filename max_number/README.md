@@ -20,4 +20,6 @@ Test case mẫu:<br>
 |8642 531 | 8654321|
 
 Giải thích:<br>
-[Hình ảnh]
+<div align = "center">
+  <img align="center" src= "https://github.com/zukahai/algotithm-training/blob/main/max_number/image/image.png" />
+</div>
