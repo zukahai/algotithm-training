@@ -61,8 +61,8 @@
 55| [Password Lock](https://github.com/zukahai/algotithm-training/tree/main/password_lock)|100|string|✅|❌|❌|
 56| [Special_numbert](https://github.com/zukahai/algotithm-training/tree/main/special_number)|100|contest1|❌|❌|❌|
 57| [Is Power Of Four](https://github.com/zukahai/algotithm-training/tree/main/is_power_of_four)|100|contest1|❌|❌|❌|
-58| [Divisible By K](https://github.com/zukahai/algotithm-training/tree/main/divisible_by_k)|120|contest1|❌|❌|❌|
-59| [Position Robot](https://github.com/zukahai/algotithm-training/tree/main/position_robot)|100|contest1|❌|❌|❌|
+58| [Position Robot](https://github.com/zukahai/algotithm-training/tree/main/position_robot)|100|contest1|❌|❌|❌|
+59| [Divisible By K](https://github.com/zukahai/algotithm-training/tree/main/divisible_by_k)|120|contest1|❌|❌|❌|
 60| [Max Number](https://github.com/zukahai/algotithm-training/tree/main/max_number)|250|contest1|❌|❌|❌|
 
 </div>
