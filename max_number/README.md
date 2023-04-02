@@ -1,6 +1,6 @@
 <div align="center">
 
-# Virus
+# Max number (Contest)
 
 </div>
 

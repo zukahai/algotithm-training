@@ -90,3 +90,7 @@ password_lock/random_test_case
 password_lock/solution
 max_number/random_test_case
 max_number/solution
+position_robot/random_test_case
+position_robot/solution
+special_number/random_test_case
+special_number/solution
