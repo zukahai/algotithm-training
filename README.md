@@ -59,5 +59,6 @@
 53| [Sides Of Triangle 3](https://github.com/zukahai/algotithm-training/tree/main/sides_of_triangle_3)|300|number|❌|❌|❌|
 54| [Sleep Of Gon](https://github.com/zukahai/algotithm-training/tree/main/sleep_of_gon)|100|time|✅|❌|❌|
 55| [Password Lock](https://github.com/zukahai/algotithm-training/tree/main/password_lock)|100|string|✅|❌|❌|
+56| [Max Number](https://github.com/zukahai/algotithm-training/tree/main/max_number)|250|contest1|❌|❌|❌|
 
 </div>
