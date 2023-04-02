@@ -1,0 +1,15 @@
+Một số khác biệt là số mà các chữ số trong nó không lặp lại.
+Cho số tự nhiên N, kiểm tra xem N có phải là số khác biệt hay không?
+Nếu phải in ra YES, ngược lại in ra NO.
+
+Input:
+    - Dòng duy nhất chứa số tự nhiên N(0 <= N <= 10^18)
+Output:
+    Kết quả của bài toán
+Giới hạn thời gian 1000ms
+
+Test case mẫu:
+Input:
+1234
+Output:
+YES
