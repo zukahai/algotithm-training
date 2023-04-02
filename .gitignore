@@ -94,3 +94,5 @@ position_robot/random_test_case
 position_robot/solution
 special_number/random_test_case
 special_number/solution
+divisible_by_k/random_test_case
+divisible_by_k/solution

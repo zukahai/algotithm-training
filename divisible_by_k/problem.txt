@@ -1,0 +1,17 @@
+Cho trước một số nguyên dương K, kiểm tra xem trong đoạn [a, b] có bao nhiêu só chia hết cho K.
+
+Input:
+    - Dòng đầu tiên là số trường hợp thử nghiệm T và số nguyên dương K(1 <= N <= 10^4 | 1 <= K <= 10^9)
+    - T dòng tiếp theo, mỗi dòng gồm 2 số nguyên dương a, b (1 <= a <= b <= 10^9)
+Output:
+    T dòng, mỗi dòng là đáp án của cặp a b đó
+Giới hạn thời gian 1000ms
+
+Test case mẫu:
+Input:
+2 5
+3 9
+1 13
+Output:
+1
+2

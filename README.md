@@ -60,6 +60,7 @@
 54| [Sleep Of Gon](https://github.com/zukahai/algotithm-training/tree/main/sleep_of_gon)|100|time|✅|❌|❌|
 55| [Password Lock](https://github.com/zukahai/algotithm-training/tree/main/password_lock)|100|string|✅|❌|❌|
 56| [Special_numbert](https://github.com/zukahai/algotithm-training/tree/main/special_number)|100|contest1|❌|❌|❌|
+56| [Divisible By K](https://github.com/zukahai/algotithm-training/tree/main/divisible_by_k)|100|contest1|❌|❌|❌|
 56| [Position Robot](https://github.com/zukahai/algotithm-training/tree/main/position_robot)|100|contest1|❌|❌|❌|
 57| [Max Number](https://github.com/zukahai/algotithm-training/tree/main/max_number)|250|contest1|❌|❌|❌|
 
