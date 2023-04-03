@@ -1,23 +1,17 @@
-Hải có hai số nguyên dương a và b, Hải muốn tạo ra số c bằng cách ghép các chữ số của a và của b. sao cho các chữ số trong a và b xuất hiện trong c theo thứ tự như lúc đầu. Hãy đưa ra số lớn nhất có thể ghép được theo yêu cầu trên.
+Hải có một robot hút rác dùng để thực hiện hút rác trên một đường thẳng, ban đầu robot đặt tại điểm có tọa độ là 0. Robor sẽ được điều khiển theo mỗi chuỗi s, nếu găp ký tự 'L' nó sẽ qua trái 1 đơn vị, còn nếu gặp ký tự 'R' nó sẽ qua phải một đơn vị. 
 
+Cho chuỗi s chỉ gồm các ký tự 'L' và 'R', hãy tính số tọa độ mà robot đã đi qua.
 Input:
-    - Dòng duy nhất là số virus mà Hải muốn(1 <= N <= 10^18)
+    - Dòng duy nhất chứa chuỗi hoạt động của robot số a và b(1 <= |s| <= 10^5)
 Output:
-    - Dòng đầu tiên là gồm số x và y (x là số ngày mà Hải đặt được số virus, y là số virus mà Hải phải bỏ vào)
-    - Dòng thứ 2 gồm y phần tử là chỉ số ngày mà Hải cần bỏ virus vào.
+    Kết quả của bài toán
 Giới hạn thời gian 1000ms
 
 Test case mẫu:
 Input:
-13
+LRLRLRRR
 Output:
-1101
-4 3
-1 2 4
+4
 
 Giải thích:
-Hải mất 4 ngày để có 13 con virus, các ngày bỏ thêm 1 con virus là 1, 2, 4
-Ngày 1 Hải bỏ 1 con virus: Số virus là 1
-Ngày 2 số virus tăng 2 lần thành 2, Hải bỏ thêm 1 con nữa, số virus là 3
-Ngày 3 số virus tăng 2 lần thành 6.
-Ngày 4 sô virus tăng 2 lần thành 12, Hải bỏ thêm 1 con nữa, Hải có đúng 13 con virus.
+Robot di chuyên qua 4 toạ độ là -1, 0, 1, 2
