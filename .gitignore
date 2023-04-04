@@ -102,6 +102,9 @@ snaker_game/random_test_case
 snaker_game/solution
 arithmetic_progression/random_test_case
 arithmetic_progression/solution
+count_vku/random_test_case
+count_vku/solution
 
 snaker_game
 arithmetic_progression
+count_vku
