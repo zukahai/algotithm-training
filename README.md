@@ -31,7 +31,7 @@
 25| [Rabbit And Carrot](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot)|150| qhd| ✅| ❌|❌|
 26| [Rabbit And Carrot 2](https://github.com/zukahai/algotithm-training/tree/main/rabbit_and_carrot_2)|140|qhd| ✅| ❌|❌|
 27| [Alike Array 2](https://github.com/zukahai/algotithm-training/tree/main/alike_array_2)|150|qhd| ✅| ❌|❌|
-28| [Ascending Array 3](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_3)|150|qhd| ❌| ❌|❌|
+28| [Ascending Array 3](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_3)|180|qhd| ✅| ❌|❌|
 29| [Number Prime](https://github.com/zukahai/algotithm-training/tree/main/number_prime)|120|sieve, qhd| ✅| ❌|❌|
 30| [Min Alike Number](https://github.com/zukahai/algotithm-training/tree/main/min_alike_number)|100|number| ✅|✅|❌|
 31| [Max Alike Number](https://github.com/zukahai/algotithm-training/tree/main/max_alike_number)|100|number|✅|✅|❌|
