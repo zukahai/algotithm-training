@@ -64,8 +64,8 @@
 58| [Position Robot](https://github.com/zukahai/algotithm-training/tree/main/position_robot)|100|contest1|✅|❌|❌|
 59| [Divisible By K](https://github.com/zukahai/algotithm-training/tree/main/divisible_by_k)|120|contest1|✅|✅|❌|
 60| [Max Number](https://github.com/zukahai/algotithm-training/tree/main/max_number)|250|contest1|❌|❌|❌|
-61| [Min Max](https://github.com/zukahai/algotithm-training/tree/main/min_max)|100|contest2|❌|❌|❌|
-62| [Count VKU](https://github.com/zukahai/algotithm-training/tree/main/count_vku)|100|contest2|❌|❌|❌|
+61| [Min Max](https://github.com/zukahai/algotithm-training/tree/main/min_max)|100|contest2|✅|✅|❌|
+62| [Count VKU](https://github.com/zukahai/algotithm-training/tree/main/count_vku)|100|contest2|✅|✅|❌|
 63| [Arithmetic Progression](https://github.com/zukahai/algotithm-training/tree/main/arithmetic_progression)|150|contest2|❌|❌|❌|
 64| [Chung Cake](https://github.com/zukahai/algotithm-training/tree/main/chung_cake)|150|contest2|❌|❌|❌|
 65| [Snaker Game](https://github.com/zukahai/algotithm-training/tree/main/snaker_game)|200|contest2|❌|❌|❌|
