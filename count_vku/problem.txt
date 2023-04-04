@@ -1,0 +1,14 @@
+Nhập vào một chuỗi S, kiểm tra xem chuỗi "VKU" xuất hiện bao nhiêu lần trong S.
+
+Input:
+    - Dòng duy nhất chứa chuỗi S(1 <= |S| <= 10^5)
+Output:
+    - Số lượng chữ VKU trong S
+
+Giới hạn thời gian 1000ms
+
+Test case mẫu:
+Input:
+VKUabcVKU
+Output:
+2
