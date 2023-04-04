@@ -1,0 +1,19 @@
+Vào ngày tết ở Việt Nam, bánh chưng là một thứ không thể thiếu với mọi nhà.
+Một hôm Hải ngồi suy nghĩ rằng: "Nếu như được phép cắt N lần cắt lên chiếc bánh chưng, thì tối đã ta có thể thu được bao nhiêu phần bằng nhau"
+Biết các lần cắt phải vuông góc hoặc song song với các cạnh, bánh chưng không được xê dịch trong lúc cắt.
+Hãy giúp Hải đưa ra số lương tối đa các miếng bánh sau N nhát cắt.
+Kết quả được mod cho 10e9+7
+Input:
+    - Dòng duy nhất chứa số tự nhiên N(0 <= N  <= 10^18)
+Output:
+    Kết quả của bài toán
+Giới hạn thời gian 1000ms
+
+Test case mẫu:
+Input:
+3
+Output:
+8
+
+Giải thích:
+[Hình ảnh]

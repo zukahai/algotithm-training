@@ -1,0 +1,19 @@
+Nhập vào số tự nhiên N.
+A được tạo ra bằng cách hoán đổi cách chữ số trong N để thu được số lớn nhất có thể.
+B được tạo ra bằng cách hoán đổi cách chữ số trong N để thu được số nhỏ nhất có thể.
+Tìm A - B
+
+Input:
+    - Dòng duy nhất chứa số tự nhiên N(0 <= N  <= 10^17)
+Output:
+    Kết quả của bài toán
+Giới hạn thời gian 1000ms
+
+Test case mẫu:
+Input:
+2134
+Output:
+3087
+
+Giải thích:
+A = 4321, B = 1234. A - B = 3087

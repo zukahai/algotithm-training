@@ -1,0 +1,24 @@
+NamGon là một chú rắn rất đáng yêu, qua nhiều năm tháng thì thân hình của chú đã trở nên dài hơn bào giờ hết. Vào một ngày đẹp trời chú rắn vô tình phát hiện ra M đường hầm chứa rất nhiều phần quà hấp dẫn, mỗi phần quà đều mang giá trị của nó.
+Tuy nhiên với thân hình quá khổ của mình nên tại mỗi đường hầm thì NamGom chỉ có thể di chuyển 1 chiều (Đã di chuyển sang trái thì không thể thể di chuyển qua phải được nữa, và tương tự), ở mỗi đương hầm, chú rắn có thể đi xuống đường hầm phía dưới nó.
+Chú răn có thể dừng lại bất cứ lúc nào nếu không muốn đi tiếp nữa.
+Chú rắn sẽ nhận được các phần quà mà nó đi qua. Hãy tìm được đi để tổng phần quà mà chú rắn nhất được là lớn nhất.
+
+Input:
+    - Dòng đầu tiên là 2 số nguyên dương M, N(1 <= N, M <= 10^2)
+    - M dòng tiếp theo, mỗi dòng gồm N số nguyên là giá trị của các phần quà ở mỗi đường hầm.
+Output:
+    - Tổng giá trị của phần quà mà chú rắn có thể nhận được.
+
+Giới hạn thời gian 1000ms
+
+Test case mẫu:
+Input:
+3 4
+0 1 3 -4
+-2 4 5 2
+-9 4 0 5
+Output:
+24
+
+Giải thích:
+Rắn di chuyển theo hình sau:
