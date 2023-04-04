@@ -100,4 +100,8 @@ is_power_of_four/random_test_case
 is_power_of_four/solution
 snaker_game/random_test_case
 snaker_game/solution
+arithmetic_progression/random_test_case
+arithmetic_progression/solution
+
 snaker_game
+arithmetic_progression
