@@ -64,5 +64,6 @@
 58| [Position Robot](https://github.com/zukahai/algotithm-training/tree/main/position_robot)|100|contest1|❌|❌|❌|
 59| [Divisible By K](https://github.com/zukahai/algotithm-training/tree/main/divisible_by_k)|120|contest1|❌|❌|❌|
 60| [Max Number](https://github.com/zukahai/algotithm-training/tree/main/max_number)|250|contest1|❌|❌|❌|
+60| [Snaker Game](https://github.com/zukahai/algotithm-training/tree/main/snaker_game)|200|contest2|❌|❌|❌|
 
 </div>
