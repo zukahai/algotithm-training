@@ -71,6 +71,7 @@
 65| [Snaker Game](https://github.com/zukahai/algotithm-training/tree/main/snaker_game)|200|contest2|❌|❌|❌|
 66| [Give Extra Pen](https://github.com/zukahai/algotithm-training/tree/main/give_extra_pen)|100|contest3|❌|❌|❌|
 66| [Move K Elements](https://github.com/zukahai/algotithm-training/tree/main/move_k_elements)|150|contest3|❌|❌|❌|
+66| [Crowded Store](https://github.com/zukahai/algotithm-training/tree/main/crowded_store)|200|contest3|❌|❌|❌|
 
 
 </div>

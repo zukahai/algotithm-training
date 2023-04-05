@@ -112,6 +112,9 @@ move_k_elements/random_test_case
 move_k_elements/solution
 give_extra_pen/random_test_case
 give_extra_pen/solution
+crowded_store/random_test_case
+crowded_store/solution
 
 give_extra_pen
 move_k_elements
+crowded_store
