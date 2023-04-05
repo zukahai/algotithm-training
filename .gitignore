@@ -114,7 +114,10 @@ give_extra_pen/random_test_case
 give_extra_pen/solution
 crowded_store/random_test_case
 crowded_store/solution
+arithmetic_progression_2/random_test_case
+arithmetic_progression_2/solution
 
 give_extra_pen
+arithmetic_progression_2
 move_k_elements
 crowded_store
