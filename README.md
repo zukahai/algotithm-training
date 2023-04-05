@@ -69,6 +69,7 @@
 63| [Arithmetic Progression](https://github.com/zukahai/algotithm-training/tree/main/arithmetic_progression)|150|contest2|✅|✅|❌|
 64| [Chung Cake](https://github.com/zukahai/algotithm-training/tree/main/chung_cake)|150|contest2|✅|✅|❌|
 65| [Snaker Game](https://github.com/zukahai/algotithm-training/tree/main/snaker_game)|200|contest2|❌|❌|❌|
+66| [Move K Elements](https://github.com/zukahai/algotithm-training/tree/main/move_k_elements)|150|contest2|❌|❌|❌|
 
 
 </div>
