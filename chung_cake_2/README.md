@@ -34,9 +34,9 @@ Output:
 Giải thích:<br>
 Bánh trước khi cắt <br>
 <div align = "center">
-  <img align="center" src= "https://github.com/zukahai/algotithm-training/blob/main/chung_cake/image/image1.png" />
+  <img align="center" src= "https://github.com/zukahai/algotithm-training/blob/main/chung_cake_2/image/image1.png" />
 </div>
 Bánh sau khi cắt thêm 1 lần.
 <div align = "center">
-  <img align="center" src= "https://github.com/zukahai/algotithm-training/blob/main/chung_cake/image/image2.png" />
+  <img align="center" src= "https://github.com/zukahai/algotithm-training/blob/main/chung_cake_2/image/image2.png" />
 </div>
