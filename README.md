@@ -70,6 +70,7 @@
 64| [Chung Cake](https://github.com/zukahai/algotithm-training/tree/main/chung_cake)|150|contest2|✅|✅|❌|
 65| [Snaker Game](https://github.com/zukahai/algotithm-training/tree/main/snaker_game)|200|contest2|❌|❌|❌|
 66| [Give Extra Pen](https://github.com/zukahai/algotithm-training/tree/main/give_extra_pen)|100|contest3|❌|❌|❌|
+66| [Arithmetic Progression 2](https://github.com/zukahai/algotithm-training/tree/main/arithmetic_progression_2)|150|contest3|❌|❌|❌|
 66| [Move K Elements](https://github.com/zukahai/algotithm-training/tree/main/move_k_elements)|150|contest3|❌|❌|❌|
 66| [Crowded Store](https://github.com/zukahai/algotithm-training/tree/main/crowded_store)|200|contest3|❌|❌|❌|
 
