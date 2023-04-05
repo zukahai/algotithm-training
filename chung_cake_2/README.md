@@ -8,8 +8,8 @@ Vào ngày tết ở Việt Nam, bánh chưng là một thứ không thể thi�
 Một hôm Hải ngồi suy nghĩ rằng: "Nếu như được phép cắt N lần cắt lên chiếc bánh chưng, thì tối đã ta có thể thu được bao nhiêu phần bánh"
 Biết các lần cắt phải vuông góc hoặc song song với các cạnh, bánh chưng không được xê dịch trong lúc cắt.
 Tuy nhiên tuy do không có kinh nghiệm nên Hải đã lỡ cắt bánh chưng theo ý của mình và có thể không phải là cách cắt tốt nhất.
-Hải đã cắt a lần song với đường cao và đường rộng, b lần song song với đường cao và đường dài, c lần song song với đương dài và đường rộng.
-Từ chiếc bánh đã cắt dở, bạn được phép cắt thêm N song song hoặc vuông góc với các trục để thu được số mảnh bánh là lớn nhất.
+Hải đã cắt a lần song với đường cao và đường rộng, b lần song song với đường cao và đường dài, c lần song song với đường dài và đường rộng.
+Từ chiếc bánh đã cắt dở, bạn được phép cắt thêm N lần, các lần phải song song hoặc vuông góc với các trục để thu được số mảnh bánh là lớn nhất.
 Kết quả được mod cho 10e9+7<br>
 <br>
 Input:<br>
