@@ -1,0 +1,14 @@
+Cửa hàng NamZ đang có khuyến mãi khủng, cứ mua a cây bút sẽ được tặng thêm b cây bút. Thầy long đang cần N cây bút để làm phần thưởng cho học viên của mình.
+Hãy giúp thầy Long tính số bút tối thiểu thầy Long phải mua ở cửa hàng NamZ để thầy Long có đủ N cây bút.
+Input:
+    Dòng đầu tiên gồm số số nguyên dương N (1 <= N <= 10^18)
+    Dòng thứ 2 gồm 2 số nguyên dương a và b (1 <= a, b <= 10^18)
+Output:
+    Số bút tối thiểu thầy Long phải mua.
+
+Ví dụ mẫu:
+Input:
+6
+2 1
+Output:
+4

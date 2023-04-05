@@ -1,0 +1,12 @@
+Cho một số nguyên dương N có M chữ số. Xoá trong N đúng K (K < M) chữ số để thu được số lớn nhất từ những số còn lại.
+
+Input:
+    Dòng đầu tiên gồm số 2 số nguyên dương N và K (2 <= N <= 10^10000 | 0 < K < |N|)
+Output:
+    Số lớn nhất sau khi xoá K phần tử trong N.
+
+Ví dụ mẫu:
+Input:
+9217 2
+Output:
+97
