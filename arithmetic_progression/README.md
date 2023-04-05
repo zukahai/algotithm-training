@@ -11,7 +11,7 @@ Input:<br>
     - Dòng đầu tiên là số nguyên dương N. (0 < N < 10^5)<br>
     - Dòng tiếp theo là N số nguyên. Giữa 2 số cách nhau bởi một khoảng trắng. (|a[i]| < 10^7)<br>
 Output:<br>
-    - Một dòng gồm các số nguyên tố có trong mảng theo thứ tự nhập vào.<br>
+    - Một dòng là độ dài của dãy cần tìm.<br>
 
 Test case mẫu:<br>
 

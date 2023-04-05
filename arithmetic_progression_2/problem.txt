@@ -1,0 +1,17 @@
+Nhập vào số nguyên dương N và một mảng N số nguyên.
+In ra độ dài của dãy con KHÔNG nhất thiết liên tiếp dài nhất là một dãy cấp số cộng với cộng sai là d.
+
+Input:
+    - Dòng đầu tiên là số nguyên dương N và số nguyên d (0 < N < 10^5 | |d| <= 10^9)
+    - Dòng tiếp theo là N số nguyên. Giữa 2 số cách nhau bởi một khoảng trắng. (|a[i]| < 10^7)
+Output:
+    - Một dòng là độ dài dài nhất của dãy cần tìm.
+
+Test case mẫu:
+Input:
+6 3
+1 2 4 7 2 10
+Output:
+4
+
+Giải thích: Dãy cấp số cộng liên tiếp dày nhất là 1, 4, 7, 10. Có độ dài là 4.
