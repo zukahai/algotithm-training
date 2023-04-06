@@ -27,5 +27,5 @@ Bạn có thể thử từng input để biết được bài làm của mình c
 Sau khi xong phần này các bạn cài đặt extension Competitive Programming Helper (CPH) vào VSC.
 
 <div align = "center">
-  <img align="center" src= "[https://github.com/zukahai/algotithm-training/blob/main/chung_cake_2/image/image2.png](https://github.com/zukahai/HaiZuka/blob/master/Images/cph.png)" />
+  <img align="center" src= "https://raw.githubusercontent.com/zukahai/HaiZuka/master/Images/cph.png" />
 </div>
