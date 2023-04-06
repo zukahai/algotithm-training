@@ -40,3 +40,5 @@ Bánh sau khi cắt thêm 1 lần.
 <div align = "center">
   <img align="center" src= "https://github.com/zukahai/algotithm-training/blob/main/chung_cake_2/image/image2.png" />
 </div>
+
+
