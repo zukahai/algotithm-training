@@ -2,3 +2,20 @@
 
 # Hướng dẫn chạy thử bài làm của bạn
 </div>
+Mỗi folder sẽ là mỗi bài tập, trong đó:
+  
+- problem.txt là đề bài.
+- testcase
+  - tc01
+    - input.txt: đầu vào của test 1
+    - output.txt: đầu ra của test 2
+  - tc02
+    - input.txt
+    - output.txt
+  - ...
+  - .testcase: File test đùng cho estension CPH trong VSCode.
+- suggest.txt: Gợi ý (thường sẽ không có)
+
+
+Bạn có thể thử từng input để biết được bài làm của mình có vượt quá được các test (do mình tự ra) đối với problem đó hay không. Nhưng vấn đề này có thể sẽ bất khả thi vì có một số test có input cũng như output rất dài, và việc để test từng test case rất là mất thời gian. Để khắc phục vấn đề này mình sẽ hướng dẫn các bạn một cách có thể chạy 1 lần được tất cả các test case của đề.
+
