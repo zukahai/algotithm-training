@@ -33,8 +33,8 @@
 27| [Alike Array 2](https://github.com/zukahai/algotithm-training/tree/main/alike_array_2)|150|qhd| ✅| ❌|❌|
 28| [Ascending Array 3](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_3)|180|qhd| ✅| ❌|❌|
 29| [Number Prime](https://github.com/zukahai/algotithm-training/tree/main/number_prime)|120|sieve, qhd| ✅| ❌|✅|
-30| [Min Alike Number](https://github.com/zukahai/algotithm-training/tree/main/min_alike_number)|100|number| ✅|✅|❌|
-31| [Max Alike Number](https://github.com/zukahai/algotithm-training/tree/main/max_alike_number)|100|number|✅|✅|❌|
+30| [Min Alike Number](https://github.com/zukahai/algotithm-training/tree/main/min_alike_number)|100|number| ✅|✅|✅|
+31| [Max Alike Number](https://github.com/zukahai/algotithm-training/tree/main/max_alike_number)|100|number|✅|✅|✅|
 32| [Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/ascending_number)|100|number|✅|❌|✅|
 33| [Min Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/min_ascending_number)|120|number| ❌| ❌|❌|
 34| [Max Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/max_ascending_number)|120|number| ❌| ❌|❌|
@@ -61,7 +61,7 @@
 55| [Password Lock](https://github.com/zukahai/algotithm-training/tree/main/password_lock)|100|string|✅|❌|❌|
 56| [Special_numbert](https://github.com/zukahai/algotithm-training/tree/main/special_number)|100|contest1|✅|✅|✅|
 57| [Is Power Of Four](https://github.com/zukahai/algotithm-training/tree/main/is_power_of_four)|100|contest1|✅|✅|✅|
-58| [Position Robot](https://github.com/zukahai/algotithm-training/tree/main/position_robot)|100|contest1|✅|❌|❌|
+58| [Position Robot](https://github.com/zukahai/algotithm-training/tree/main/position_robot)|100|contest1|✅|❌|✅|
 59| [Divisible By K](https://github.com/zukahai/algotithm-training/tree/main/divisible_by_k)|120|contest1|✅|✅|❌|
 60| [Max Number](https://github.com/zukahai/algotithm-training/tree/main/max_number)|250|contest1|❌|❌|❌|
 61| [Min Max](https://github.com/zukahai/algotithm-training/tree/main/min_max)|100|contest2|✅|✅|❌|
@@ -69,8 +69,8 @@
 63| [Arithmetic Progression](https://github.com/zukahai/algotithm-training/tree/main/arithmetic_progression)|150|contest2|✅|✅|❌|
 64| [Chung Cake](https://github.com/zukahai/algotithm-training/tree/main/chung_cake)|150|contest2|✅|✅|❌|
 65| [Snaker Game](https://github.com/zukahai/algotithm-training/tree/main/snaker_game)|200|contest2|❌|❌|❌|
-66| [Give Extra Pen](https://github.com/zukahai/algotithm-training/tree/main/give_extra_pen)|100|contest3|❌|❌|❌|
-67| [Arithmetic Progression 2](https://github.com/zukahai/algotithm-training/tree/main/arithmetic_progression_2)|150|contest3|❌|❌|❌|
+66| [Give Extra Pen](https://github.com/zukahai/algotithm-training/tree/main/give_extra_pen)|100|contest3|✅|✅|❌|
+67| [Arithmetic Progression 2](https://github.com/zukahai/algotithm-training/tree/main/arithmetic_progression_2)|150|contest3|✅|✅|❌|
 68| [Chung Cake_2 ](https://github.com/zukahai/algotithm-training/tree/main/chung_cake_2)|150|contest3|❌|❌|❌|
 69| [Move K Elements](https://github.com/zukahai/algotithm-training/tree/main/move_k_elements)|150|contest3|❌|❌|❌|
 70| [Crowded Store](https://github.com/zukahai/algotithm-training/tree/main/crowded_store)|200|contest3|❌|❌|❌|

@@ -21,4 +21,4 @@ Test case mẫu:<br>
 |6 3<br>1 2 4 7 2 10| 4|
 
 Giải thích:<br>
-Dãy cấp số cộng liên tiếp dày nhất là 1, 4, 7, 10. Có độ dài là 4.
+Dãy cấp số cộng dài nhất là 1, 4, 7, 10. Có độ dài là 4.
