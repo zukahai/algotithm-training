@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hướng dẫn chạy thử bài làm của bạn
+# Algotithm Training
 </div>
 
 ## 1. Cấu trúc mỗi đề thi
