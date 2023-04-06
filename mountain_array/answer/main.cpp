@@ -24,7 +24,6 @@ int main()
         else
             arrayAscEnd[i] = 1;
     }
-
     for (int i = n - 2; i >= 0; i--)
     {
         if (a[i] > a[i + 1])
@@ -34,7 +33,6 @@ int main()
         else
             arrayDecStart[i] = 1;
     }
-
     saveMountain[0] = 0;
     long long max = saveMountain[0];
     for (long long i = 1; i < n - 1; i++)
@@ -52,12 +50,10 @@ int main()
             max = saveMountain[i];
         }
     }
-
     if (max == 0)
     {
         cout << -1;
         return 0;
     }
-
     cout << max;
 }

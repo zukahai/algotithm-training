@@ -1,18 +1,19 @@
 #include <bits/stdc++.h>
 using namespace std;
-long long arr[100003];
-long long check[100003];
+const long long LENGHT = 1000005;
+long long a[LENGHT];
 int main()
 {
     long long n;
     cin >> n;
-    for (int i = 0; i < n; i++)
+    for (long long i = 0; i < n * 2 - 1; i++)
     {
-        cout << arr[i];
+        cin >> a[i];
     }
-    for (int i = 0; i < n; i++)
+    long long sum = 0;
+    for (long long i = 0; i < n * 2 - 1; i++)
     {
-        check[abs(arr[i])] = 0;
+        sum += a[i];
     }
-    
+    cout << -sum;
 }

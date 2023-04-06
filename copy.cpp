@@ -1,34 +1,23 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <algorithm>
+#include <string>
+
 using namespace std;
-const long long LENGHT = 10e5;
-long long a[LENGHT];
-long long save[LENGHT];
+
 int main()
 {
-    long long n;
-    cin >> n;
-    for (long long i = 0; i < n; i++)
+    int a, b, c;
+    cin >> a >> b >> c;
+    if (a >= b && a >= c)
     {
-        cin >> a[i];
+        cout << 'a';
     }
-    
-    save[0] = 1;
-    long long max = 1;
-    for (int i = 1; i < n; i++)
+    else if (b >= a && b >= c)
     {
-        if (a[i] < a[i - 1])
-        {
-            save[i] = save[i - 1] + 1;
-            if (save[i] > max)
-            {
-                max = save[i];
-            }
-        }
-        else
-        {
-            save[i] = 1;
-        }
+        cout << 'b';
     }
-    cout << endl
-         << max;
+    else if (c >= b && c >= a)
+    {
+        cout << 'c';
+    }
 }

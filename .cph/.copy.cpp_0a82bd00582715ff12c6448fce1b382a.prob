@@ -1,1 +1,1 @@
-{"name":"Local: copy","url":"g:\\C++\\algotithm-training\\copy.cpp","tests":[{"id":1679753615952,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\C++\\algotithm-training\\copy.cpp","group":"local","local":true}
+{"name":"Local: copy","url":"g:\\C++\\algotithm-training\\copy.cpp","tests":[{"id":1679753615952,"input":" 3 3 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\C++\\algotithm-training\\copy.cpp","group":"local","local":true}

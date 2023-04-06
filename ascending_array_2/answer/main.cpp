@@ -18,7 +18,7 @@ int main()
         save[i] = 1;
         for (long long j = i - 1; j >= 0; j--)
         {
-            if (a[i] > a[j] && ( 1 + save[j]) > save[i])
+            if (a[i] > a[j] && (1 + save[j]) > save[i])
             {
                 save[i] = save[j] + 1;
             }
@@ -28,6 +28,5 @@ int main()
             max = save[i];
         }
     }
-    cout << endl
-         << max;
+    cout << max;
 }

@@ -21,3 +21,6 @@ int main()
     cin >> n;
     cout << getResult(n);
 }
+// công thức tính tổng cấp số cộng từ 1 đến n: 
+// sum = 1 + 2 + ... + n
+// sum = n * (n + 1) / 2
