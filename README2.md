@@ -33,13 +33,13 @@
 27| [Alike Array 2](https://github.com/zukahai/algotithm-training/tree/main/alike_array_2)|150|qhd| ✅| ❌|❌|
 28| [Ascending Array 3](https://github.com/zukahai/algotithm-training/tree/main/ascending_array_3)|180|qhd| ✅| ❌|❌|
 29| [Number Prime](https://github.com/zukahai/algotithm-training/tree/main/number_prime)|120|sieve, qhd| ✅| ❌|✅|
-30| [Min Alike Number](https://github.com/zukahai/algotithm-training/tree/main/min_alike_number)|100|number| ✅|✅|❌|
-31| [Max Alike Number](https://github.com/zukahai/algotithm-training/tree/main/max_alike_number)|100|number|✅|✅|❌|
+30| [Min Alike Number](https://github.com/zukahai/algotithm-training/tree/main/min_alike_number)|100|number| ✅|✅|✅|
+31| [Max Alike Number](https://github.com/zukahai/algotithm-training/tree/main/max_alike_number)|100|number|✅|✅|✅|
 32| [Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/ascending_number)|100|number|✅|❌|✅|
 33| [Min Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/min_ascending_number)|120|number| ❌| ❌|❌|
 34| [Max Ascending Number](https://github.com/zukahai/algotithm-training/tree/main/max_ascending_number)|120|number| ❌| ❌|❌|
 35| [Number Square](https://github.com/zukahai/algotithm-training/tree/main/number_square)|200|mod| ❌|❌|❌|
-36| [Snail And Tree](https://github.com/zukahai/algotithm-training/tree/main/snail_and_tree)|100|number| ✅|❌|❌|
+36| [Snail And Tree](https://github.com/zukahai/algotithm-training/tree/main/snail_and_tree)|100|number| ✅|❌|✅|
 37| [Last Zero Of N Factorial](https://github.com/zukahai/algotithm-training/tree/main/last_zero_of_n_factorial)|250|number|❌|❌|❌|
 38| [Sum Array Equals S](https://github.com/zukahai/algotithm-training/tree/main/sum_array_equals_s)|200|array| ❌|❌|❌|
 39| [Rectangle One](https://github.com/zukahai/algotithm-training/tree/main/rectangle_one)|200|matrix|❌|❌|❌|
@@ -53,7 +53,7 @@
 47| [Number Lucky](https://github.com/zukahai/algotithm-training/tree/main/number_lucky)|100|number| ✅|❌|❌|
 48| [Number Lucky 2](https://github.com/zukahai/algotithm-training/tree/main/number_lucky_2)|100|number|✅|❌|❌|
 49| [Shoes Game](https://github.com/zukahai/algotithm-training/tree/main/shoes_game)|150|icpc|✅| ❌|❌|
-50| [Smallest Number Of Bags](https://github.com/zukahai/algotithm-training/tree/main/smallest_number_of_bags)|100|array|✅|❌|❌|
+50| [Smallest Number Of Bags](https://github.com/zukahai/algotithm-training/tree/main/smallest_number_of_bags)|100|array|✅|❌|✅|
 51| [Sides Of Triangle](https://github.com/zukahai/algotithm-training/tree/main/sides_of_triangle)|100|number|✅|❌|❌|
 52| [Sides Of Triangle 2](https://github.com/zukahai/algotithm-training/tree/main/sides_of_triangle_2)|200|number|❌|❌|❌|
 53| [Sides Of Triangle 3](https://github.com/zukahai/algotithm-training/tree/main/sides_of_triangle_3)|300|number|❌|❌|❌|
@@ -61,7 +61,7 @@
 55| [Password Lock](https://github.com/zukahai/algotithm-training/tree/main/password_lock)|100|string|✅|❌|❌|
 56| [Special_numbert](https://github.com/zukahai/algotithm-training/tree/main/special_number)|100|contest1|✅|✅|✅|
 57| [Is Power Of Four](https://github.com/zukahai/algotithm-training/tree/main/is_power_of_four)|100|contest1|✅|✅|✅|
-58| [Position Robot](https://github.com/zukahai/algotithm-training/tree/main/position_robot)|100|contest1|✅|❌|❌|
+58| [Position Robot](https://github.com/zukahai/algotithm-training/tree/main/position_robot)|100|contest1|✅|❌|✅|
 59| [Divisible By K](https://github.com/zukahai/algotithm-training/tree/main/divisible_by_k)|120|contest1|✅|✅|❌|
 60| [Max Number](https://github.com/zukahai/algotithm-training/tree/main/max_number)|250|contest1|❌|❌|❌|
 61| [Min Max](https://github.com/zukahai/algotithm-training/tree/main/min_max)|100|contest2|✅|✅|❌|
