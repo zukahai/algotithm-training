@@ -44,27 +44,27 @@ Copy nội dung của file ./testcase/.testcase ở (1)
 Mở file bài làm của bạn sau đó click và icon CPH:
 
 <div align = "center">
-  <img align="center" src= "https://github.com/zukahai/HaiZuka/blob/master/Images/chp3.png" />
+  <img align="center" src= "https://raw.githubusercontent.com/zukahai/HaiZuka/master/Images/chp3.png" />
 </div>
 <br>
  Tiếp theo sẽ mở ra giao diện này. Chọn Create problem
  <div align = "center">
-  <img align="center" src= "https://github.com/zukahai/HaiZuka/blob/master/Images/chp4.png" />
+  <img align="center" src= "https://raw.githubusercontent.com/zukahai/HaiZuka/master/Images/chp4.png" />
 </div>
 <br>
 Trở về giao diện chính:
 <div align = "center">
-  <img align="center" src= "https://github.com/zukahai/HaiZuka/blob/master/Images/chp5.png" />
+  <img align="center" src= "https://raw.githubusercontent.com/zukahai/HaiZuka/master/Images/chp5.png" />
 </div>
 
 #### Bước 3:
 Lúc này hãy thống sẽ tự tạo cho bạn một file prob ở .chp/xxxxxxxxxx.prob ngang hàng với file bài làm của bạn.
  <div align = "center">
-  <img align="center" src= "https://github.com/zukahai/HaiZuka/blob/master/Images/chp6.png" />
+  <img align="center" src= "https://raw.githubusercontent.com/zukahai/HaiZuka/master/Images/chp6.png" />
 </div>
 Mở file đó lên và tìm đoạn "Test":....,
 <div align = "center">
-  <img align="center" src= "https://github.com/zukahai/HaiZuka/blob/master/Images/chp7.png" />
+  <img align="center" src= "https://raw.githubusercontent.com/zukahai/HaiZuka/master/Images/chp7.png" />
 </div>
 Bôi đen và dán nội dung bạn đã copy ở bước 1 vào. Sau đó lưu file lại.
 
@@ -72,7 +72,7 @@ Bôi đen và dán nội dung bạn đã copy ở bước 1 vào. Sau đó lưu 
 Trở lại file bài làm của bạn, lúc này chờ một lúc để cửa số CPH hiện thị đầy đủ các testcase của đề.
 
 <div align = "center">
-  <img align="center" src= "https://github.com/zukahai/HaiZuka/blob/master/Images/chp2.png" />
+  <img align="center" src= "https://raw.githubusercontent.com/zukahai/HaiZuka/master/Images/chp2.png" />
 </div>
 
 Bạn có thể chọn chạy thử từng test hoặc chạy hết tất cả các test (Run All)
