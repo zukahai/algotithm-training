@@ -1,9 +1,9 @@
 <div align="center">
 
-# Give Extra Pen (Contest 3)
+# Give Extra Pen 
 
 </div>
-
+Tương tự bàk **Give Extra Pen** nhưng thử làm theo cách tìm kiếm nhị phân <br>
 Cửa hàng NamZ đang có khuyến mãi khủng, cứ mua a cây bút sẽ được tặng thêm b cây bút. Thầy long đang cần N cây bút để làm phần thưởng cho học viên của mình.<br>
 Hãy giúp thầy Long tính số bút tối thiểu thầy Long phải mua ở cửa hàng NamZ để thầy Long có đủ N cây bút.<br>
 <br>
