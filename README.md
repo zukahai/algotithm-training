@@ -76,7 +76,7 @@
 70| [Crowded Store](https://github.com/zukahai/algotithm-training/tree/main/crowded_store)|200|contest3|❌|❌|❌|
 71| [Index Number](https://github.com/zukahai/algotithm-training/tree/main/index_number)|100|binary-seach|✅|✅|❌|
 72| [Index Number 2](https://github.com/zukahai/algotithm-training/tree/main/index_number_2)|120|binary-seach|✅|✅|❌|
-73| [Index Number 3](https://github.com/zukahai/algotithm-training/tree/main/index_number_3)|120|binary-seach|❌|❌|❌|
+73| [Index Number 3](https://github.com/zukahai/algotithm-training/tree/main/index_number_3)|120|binary-seach|✅|❌|❌|
 74| [Give Extra Pen 2](https://github.com/zukahai/algotithm-training/tree/main/give_extra_pen)|100|binary-seach|❌|❌|❌|
 
 
