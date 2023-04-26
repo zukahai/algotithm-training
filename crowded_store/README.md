@@ -22,7 +22,7 @@ Test case mẫu:<br>
 ### Testcase 1:
 |Input| Output|
 |-----|:-----:|
-|3<br>1 3<br>5 6<br>2 4| 3087|
+|3<br>1 3<br>5 6<br>2 4| 2|
 
 Giải thích:<br>
 Tại thời gian 2 đến 3 cửa hàng sẽ đông nhất khi có 2 khách.
