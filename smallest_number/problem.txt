@@ -1,4 +1,4 @@
-Nhập vào số tự nhiên N.
+Nhập vào số tự nhiên N. (0 <= n <= 10^18)
 Tìm số nguyên dương M nhỏ nhất sao cho tích các số trong M đúng bằng N.
 Nếu không tồn tại số M, in ra -1.
 
