@@ -1,4 +1,4 @@
-Nhập vào hai số tự nhiên a và b, tìm và im ra tổng các số tự nhiên >=a và <=b.
+Nhập vào hai số tự nhiên a và b, tìm và in ra tổng các số tự nhiên >=a và <=b.
 (0 <= a, b <= 10^9)
 
 Test case mẫu:

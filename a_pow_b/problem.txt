@@ -1,4 +1,4 @@
-Nhập vào hai số tự nhiên a và b. Tím số dư của a^b cho 10000.
+Nhập vào hai số tự nhiên a và b. Tính số dư của a^b cho 10000.
 (0 <= a, b <= 10^12 | a+b!=0)
 
 - Input gồm 1 dòng duy nhất gồm 2 số a, b cách nhau bởi một dấu cách

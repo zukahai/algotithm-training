@@ -11,4 +11,4 @@ Test case mẫu:
 Input:
 VKUabcVKU
 Output:
-2
+2 
